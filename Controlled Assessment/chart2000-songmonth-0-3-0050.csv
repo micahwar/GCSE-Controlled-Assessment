@@ -1,0 +1,1951 @@
+month,position,artist,song,score,us,uk,de,fr,ca,au
+Jan-16,1,Adele,Hello,2568.706,1,3,1,1,1,2
+Jan-16,2,Justin Bieber,Sorry,2412.344,1,2,6,4,1,2
+Jan-16,3,Justin Bieber,Love Yourself,2219.517,3,1,3,9,3,1
+Jan-16,4,Shawn Mendes,Stitches,1876.021,6,1,2,86,10,4
+Jan-16,5,Justin Bieber,What Do You Mean?,1669.61,4,3,-,21,3,8
+Jan-16,6,Drake,Hotline Bling,1635.34,3,16,-,18,4,18
+Jan-16,7,The Weeknd,The Hills,1317.11,6,18,-,14,6,17
+Jan-16,8,Selena Gomez,Same Old Love,1202.464,5,99,-,26,6,40
+Jan-16,9,Alessia Cara,Here,1196.433,6,28,-,37,19,12
+Jan-16,10,The Weeknd,Can't Feel My Face,1075.022,15,19,-,42,8,24
+Jan-16,11,Coldplay,Adventure Of A Lifetime,1039.526,39,8,-,2,21,32
+Jan-16,12,Ellie Goulding,On My Mind,1033.61,13,33,-,180,13,36
+Jan-16,13,Fetty Wap & Remy Boyz,679,1028.72,11,32,-,-,15,43
+Jan-16,14,The Weeknd,In The Night,1018.649,12,48,-,127,12,13
+Jan-16,15,Twenty One Pilots,Stressed Out,979.645,4,86,-,40,5,-
+Jan-16,16,Meghan Trainor & John Legend,Like I'm Gonna Lose You,976.037,9,-,-,-,8,-
+Jan-16,17,Major Lazer & DJ Snake,Lean On,965.663,17,38,-,25,9,38
+Jan-16,18,Elle King,Ex's & Oh's,918.22,12,15,-,-,23,5
+Jan-16,19,One Direction,Perfect,880.652,26,19,-,-,15,15
+Jan-16,20,Drake & Future,Jumpman,875.016,12,95,-,-,-,-
+Jan-16,21,R City & Adam Levine,Locked Away,869.773,33,28,-,57,15,40
+Jan-16,22,Taylor Swift,Wildest Dreams,799.818,18,97,-,183,10,32
+Jan-16,23,Travi$ Scott,Antidote,790.785,16,-,-,-,46,-
+Jan-16,24,The Chainsmokers & Rozes,Roses,790.18,11,-,-,139,9,37
+Jan-16,25,Fetty Wap,Trap Queen,780.74,27,40,-,174,30,-
+Jan-16,26,Bryson Tiller,Don't,771.45,13,87,-,-,-,-
+Jan-16,27,Ariana Grande,Focus,754.663,24,35,-,142,10,42
+Jan-16,28,Post Malone,White Iverson,752.979,14,-,-,-,48,-
+Jan-16,29,Silento,Watch Me,721.857,19,-,-,-,22,-
+Jan-16,30,Thomas Rhett,Die A Happy Man,711.872,21,-,-,-,35,-
+Jan-16,31,Wiz Khalifa & Charlie Puth,See You Again,696.491,30,80,-,89,29,-
+Jan-16,32,Demi Lovato,Confident,685.097,23,-,-,-,26,-
+Jan-16,33,Skrillex & Diplo,Where Are U Now,681.94,38,35,-,157,20,-
+Jan-16,34,G-Eazy & Bebe Rexha,"Me, Myself & I",680.29,19,51,-,62,38,-
+Jan-16,35,Shawn Mendes & Camila Cabello,I Know What You Did Last Summer,670.626,20,100,-,-,19,-
+Jan-16,36,Rudimental & Ed Sheeran,Lay It All On Me,636.098,58,28,-,-,29,9
+Jan-16,37,Tory Lanez,Say It,631.35,26,-,-,-,-,-
+Jan-16,38,Charlie Puth,One Call Away,627.062,34,45,-,94,-,11
+Jan-16,39,Sam Hunt,Break Up In A Small Town,606.526,29,-,-,-,49,-
+Jan-16,40,Justin Bieber,I'll Show You,606.454,51,39,-,-,32,41
+Jan-16,41,"Major Lazer, Nyla & Fuse ODG",Light It Up,599.729,-,9,4,14,-,-
+Jan-16,42,Daya,Hide Away,595.916,31,-,-,-,37,-
+Jan-16,43,DNCE,Cake By The Ocean,594.058,22,-,-,-,15,-
+Jan-16,44,Flo-Rida,My House,591.945,23,-,-,-,32,-
+Jan-16,45,Matt Simons,Catch & Release (Deepend Remix),575.784,-,-,1,1,-,-
+Jan-16,46,J Cole,No Role Modelz,545.797,36,-,-,-,-,-
+Jan-16,47,Adele,When We Were Young,544.753,41,-,-,114,43,-
+Jan-16,48,Selena Gomez,Hands To Myself,543.522,37,75,-,118,44,30
+Jan-16,49,Fetty Wap,Again,527.325,38,-,-,-,-,-
+Jan-16,50,Macklemore & Ryan Lewis,Downtown,517.51,70,59,-,-,39,10
+Feb-16,1,Justin Bieber,Love Yourself,2242.872,1,2,3,4,1,1
+Feb-16,2,Justin Bieber,Sorry,1901.818,1,4,9,13,1,7
+Feb-16,3,Adele,Hello,1697.195,2,10,7,6,2,6
+Feb-16,4,Shawn Mendes,Stitches,1678.682,6,1,2,86,10,9
+Feb-16,5,Twenty One Pilots,Stressed Out,1584.735,2,19,3,3,3,3
+Feb-16,6,G-Eazy & Bebe Rexha,"Me, Myself & I",1225.266,8,27,8,22,13,21
+Feb-16,7,Justin Bieber,What Do You Mean?,1191.255,10,8,-,43,4,12
+Feb-16,8,Alessia Cara,Here,1187.804,5,28,-,37,22,13
+Feb-16,9,Rihanna & Drake,Work,1146.527,4,2,6,1,7,10
+Feb-16,10,Drake,Hotline Bling,1140.692,7,34,-,34,6,35
+Feb-16,11,The Chainsmokers & Rozes,Roses,1125.06,6,59,-,63,6,10
+Feb-16,12,Lukas Graham,Seven Years,1057.181,35,1,6,27,27,1
+Feb-16,13,Flo-Rida,My House,1042.946,5,85,-,48,9,7
+Feb-16,14,Selena Gomez,Same Old Love,1026.135,5,99,-,26,7,-
+Feb-16,15,Selena Gomez,Hands To Myself,987.325,7,41,-,118,5,13
+Feb-16,16,Zayn,Pillow talk,982.511,1,1,5,4,1,1
+Feb-16,17,The Weeknd,In The Night,977.84,13,52,-,124,14,22
+Feb-16,18,The Weeknd,The Hills,974.945,14,29,-,24,11,39
+Feb-16,19,Charlie Puth,One Call Away,958.931,15,26,-,61,28,3
+Feb-16,20,Coldplay,Adventure Of A Lifetime,957.465,13,11,-,11,11,45
+Feb-16,21,Elle King,Ex's & Oh's,930.437,25,15,10,119,33,5
+Feb-16,22,Bryson Tiller,Don't,830.732,13,71,-,-,-,-
+Feb-16,23,Meghan Trainor & John Legend,Like I'm Gonna Lose You,820.251,9,-,-,-,8,-
+Feb-16,24,The Weeknd,Can't Feel My Face,795.307,27,34,-,96,11,38
+Feb-16,25,DNCE,Cake By The Ocean,794.53,11,86,-,94,7,-
+Feb-16,26,Major Lazer & DJ Snake,Lean On,792.047,32,42,-,15,13,28
+Feb-16,27,Drake & Future,Jumpman,776.215,12,94,-,-,-,-
+Feb-16,28,Fetty Wap & Remy Boyz,679,772.564,18,47,-,-,20,-
+Feb-16,29,Adele,When We Were Young,771.943,20,13,-,69,23,35
+Feb-16,30,Shawn Mendes & Camila Cabello,I Know What You Did Last Summer,744.443,20,97,-,-,19,39
+Feb-16,31,Ellie Goulding,On My Mind,739.993,21,49,-,-,21,-
+Feb-16,32,Post Malone,White Iverson,702.852,16,-,-,-,41,-
+Feb-16,33,Robin Schulz & Francesco Yates,Sugar,697.905,54,26,-,49,-,28
+Feb-16,34,Travi$ Scott,Antidote,675.772,17,-,-,-,38,-
+Feb-16,35,One Direction,Perfect,669.529,35,41,-,-,15,29
+Feb-16,36,Daya,Hide Away,653.461,24,-,-,-,19,33
+Feb-16,37,Wiz Khalifa & Charlie Puth,See You Again,639.008,37,94,-,62,29,-
+Feb-16,38,David Guetta & Sia,Bang My Head,633.635,76,23,-,16,-,42
+Feb-16,39,Thomas Rhett,Die A Happy Man,631.259,24,-,-,-,42,-
+Feb-16,40,Jason Derulo,Get Ugly,617.117,52,12,-,182,-,-
+Feb-16,41,Tory Lanez,Say It,615.403,23,-,-,-,-,-
+Feb-16,42,Taylor Swift,Wildest Dreams,584.462,28,-,-,-,18,-
+Feb-16,43,Sam Hunt,Break Up In A Small Town,578.366,30,-,-,-,43,-
+Feb-16,44,Silento,Watch Me,571.79,28,-,-,-,32,-
+Feb-16,45,Rachel Platten,Stand By You,543.226,37,-,-,-,49,31
+Feb-16,46,"Major Lazer, Nyla & Fuse ODG",Light It Up,541.118,-,9,4,14,-,-
+Feb-16,47,Alan Walker,Faded,531.214,-,40,1,8,-,-
+Feb-16,48,Bryson Tiller,Exchange,501.712,39,-,-,-,-,-
+Feb-16,49,Luke Bryan & Karen Fairchild,Home Alone Tonight,497.073,38,-,-,-,-,-
+Feb-16,50,Yo Gotti,Down In The DM,489.164,31,-,-,-,-,-
+Mar-16,1,Rihanna & Drake,Work,2461.797,1,2,5,1,1,5
+Mar-16,2,Justin Bieber,Love Yourself,2272.193,1,5,5,5,1,8
+Mar-16,3,Twenty One Pilots,Stressed Out,2186.103,2,14,3,2,3,2
+Mar-16,4,Lukas Graham,Seven Years,1872.501,5,1,7,6,4,1
+Mar-16,5,G-Eazy & Bebe Rexha,"Me, Myself & I",1694.181,7,13,7,9,10,19
+Mar-16,6,Justin Bieber,Sorry,1633.381,3,9,-,23,2,18
+Mar-16,7,Zayn,Pillow talk,1558.893,6,4,-,53,3,3
+Mar-16,8,Shawn Mendes,Stitches,1447.528,10,7,9,95,18,20
+Mar-16,9,Flo-Rida,My House,1430.883,4,64,-,31,7,6
+Mar-16,10,Adele,Hello,1355.873,6,20,-,13,5,24
+Mar-16,11,Mike Posner,I Took A Pill In Ibiza,1327.995,10,1,7,14,11,17
+Mar-16,12,The Chainsmokers & Rozes,Roses,1226.032,9,33,-,26,6,5
+Mar-16,13,DNCE,Cake By The Ocean,1194.42,9,21,-,34,7,-
+Mar-16,14,Charlie Puth,One Call Away,1173.429,12,26,-,41,15,5
+Mar-16,15,Selena Gomez,Hands To Myself,1153.56,11,20,-,137,10,15
+Mar-16,16,Adele,When We Were Young,1110.568,14,9,-,62,16,33
+Mar-16,17,Justin Bieber,What Do You Mean?,1029.112,23,17,-,59,10,29
+Mar-16,18,Coldplay,Adventure Of A Lifetime,996.042,13,15,-,19,11,-
+Mar-16,19,Alan Walker,Faded,976.709,-,18,1,1,-,2
+Mar-16,20,Drake,Hotline Bling,947.653,16,48,-,54,14,-
+Mar-16,21,The Weeknd,The Hills,917.394,21,31,-,47,25,50
+Mar-16,22,Alessia Cara,Here,893.575,19,44,-,21,33,34
+Mar-16,23,Sia,Cheap Thrills,865.331,81,8,4,13,34,8
+Mar-16,24,Bryson Tiller,Don't,864.983,16,72,-,-,-,-
+Mar-16,25,Selena Gomez,Same Old Love,802.61,17,-,-,41,16,-
+Mar-16,26,Elle King,Ex's & Oh's,800.386,33,33,-,127,41,17
+Mar-16,27,The Weeknd,In The Night,792.11,14,73,-,124,14,-
+Mar-16,28,Drake & Future,Jumpman,785.694,22,69,-,-,-,-
+Mar-16,29,The Weeknd,Can't Feel My Face,784.224,32,34,-,125,17,49
+Mar-16,30,Yo Gotti & Nicki Minaj,Down In The DM,768.758,13,-,-,-,-,-
+Mar-16,31,Drake,Summer Sixteen,746.023,26,69,-,-,26,-
+Mar-16,32,Daya,Hide Away,745.414,23,-,-,-,18,7
+Mar-16,33,Robin Schulz & Francesco Yates,Sugar,724.355,44,41,-,76,-,39
+Mar-16,34,Fetty Wap & Remy Boyz,679,724.299,30,62,-,-,29,-
+Mar-16,35,Fifth Harmony & Ty Dolla Sign,Work From Home,683.554,12,3,-,50,14,6
+Mar-16,36,Zara Larsson & MNEK,Never Forget You,679.7,22,24,-,-,40,32
+Mar-16,37,Major Lazer & DJ Snake,Lean On,670.133,46,47,-,15,22,41
+Mar-16,38,James Bay,Let It Go,645.275,35,43,-,-,-,-
+Mar-16,39,Meghan Trainor & John Legend,Like I'm Gonna Lose You,645.187,27,-,-,-,17,-
+Mar-16,40,Tory Lanez,Say It,623.725,27,-,-,-,-,-
+Mar-16,41,Shawn Mendes & Camila Cabello,I Know What You Did Last Summer,623.402,28,68,-,-,29,33
+Mar-16,42,Kevin Gates,2 Phones,621.062,21,-,-,-,-,-
+Mar-16,43,Chris Brown,Back To Sleep,619.219,20,100,-,138,-,-
+Mar-16,44,Coldplay,Hymn For The Weekend,612.506,64,6,-,3,32,24
+Mar-16,45,Jeremih,oui,585.58,27,-,-,-,-,-
+Mar-16,46,Jason Derulo,Get Ugly,581.267,56,16,-,167,-,-
+Mar-16,47,Bryson Tiller,Exchange,573.812,26,-,-,-,-,-
+Mar-16,48,Thomas Rhett,Die A Happy Man,565.408,30,-,-,-,-,-
+Mar-16,49,Jonas Blue,Fast Car,561.71,-,-,4,14,-,10
+Mar-16,50,Rachel Platten,Stand By You,555.783,37,-,-,-,42,-
+Apr-16,1,Lukas Graham,Seven Years,2113.456,2,2,8,5,1,1
+Apr-16,2,Rihanna & Drake,Work,2081.429,1,6,10,11,1,13
+Apr-16,3,Twenty One Pilots,Stressed Out,1875.365,3,12,3,3,3,4
+Apr-16,4,Mike Posner,I Took A Pill In Ibiza,1837.663,6,1,5,6,2,5
+Apr-16,5,Justin Bieber,Love Yourself,1823.362,2,13,7,9,2,18
+Apr-16,6,Fifth Harmony & Ty Dolla Sign,Work From Home,1643.467,7,2,7,18,5,3
+Apr-16,7,G-Eazy & Bebe Rexha,"Me, Myself & I",1537.826,7,15,9,12,9,25
+Apr-16,8,Zayn,Pillow talk,1490.934,4,9,-,26,6,11
+Apr-16,9,Sia,Cheap Thrills,1459.818,39,2,1,2,17,6
+Apr-16,10,Meghan Trainor,No,1411.285,3,11,-,113,10,9
+Apr-16,11,Flo-Rida,My House,1321.298,4,59,-,38,5,8
+Apr-16,12,DNCE,Cake By The Ocean,1314.405,9,9,-,23,8,-
+Apr-16,13,Justin Bieber,Sorry,1266.821,8,19,-,31,5,26
+Apr-16,14,Ariana Grande,Dangerous Woman,1133.778,10,24,-,91,14,18
+Apr-16,15,Charlie Puth,One Call Away,1108.004,14,29,-,36,17,5
+Apr-16,16,The Chainsmokers & Rozes,Roses,1073.749,14,16,-,26,9,15
+Apr-16,17,Selena Gomez,Hands To Myself,1070.408,13,14,-,118,13,19
+Apr-16,18,Shawn Mendes,Stitches,1038.296,17,12,-,111,19,30
+Apr-16,19,Alan Walker,Faded,1031.754,91,7,1,1,38,2
+Apr-16,20,Adele,Hello,1021.54,12,38,-,33,12,37
+Apr-16,21,Desiigner,Panda,984.136,2,27,-,31,10,47
+Apr-16,22,Zara Larsson & MNEK,Never Forget You,965.686,15,30,-,-,22,50
+Apr-16,23,The Chainsmokers & Daya,Don't Let Me Down,828.626,17,77,8,153,19,3
+Apr-16,24,The Weeknd,The Hills,765.407,24,49,-,91,27,-
+Apr-16,25,Drake & Future,Jumpman,760.441,23,58,-,90,-,-
+Apr-16,26,Bryson Tiller,Don't,741.19,19,77,-,-,-,-
+Apr-16,27,Adele,When We Were Young,736.189,28,23,-,84,18,47
+Apr-16,28,Kevin Gates,2 Phones,732.393,17,-,-,-,-,-
+Apr-16,29,Drake,Hotline Bling,710.037,27,79,-,64,23,-
+Apr-16,30,DJ Snake & Bipolar Sunshine,Middle,698.933,20,-,-,-,24,-
+Apr-16,31,James Bay,Let It Go,689.269,30,55,-,-,44,-
+Apr-16,32,Justin Bieber,What Do You Mean?,679.669,34,26,-,71,15,41
+Apr-16,33,"Drake, WizKid & Kyla",One Dance,674.212,13,1,2,1,2,15
+Apr-16,34,Jeremih,oui,670.67,19,-,-,-,-,-
+Apr-16,35,Yo Gotti & Nicki Minaj,Down In The DM,637.883,18,-,-,-,-,-
+Apr-16,36,Future & The Weeknd,Low Life,626.744,21,-,-,188,28,-
+Apr-16,37,Bryson Tiller,Exchange,609.652,26,-,-,-,-,-
+Apr-16,38,Troye Sivan,Youth,607.758,23,100,-,-,47,46
+Apr-16,39,Robin Schulz & Francesco Yates,Sugar,584.107,44,44,-,76,-,-
+Apr-16,40,Cole Swindell,You Should Be Here,577.337,31,-,-,-,-,-
+Apr-16,41,Drake,Summer Sixteen,577.178,29,93,-,-,41,-
+Apr-16,42,Chris Brown,Back To Sleep,566.684,25,-,-,-,-,-
+Apr-16,43,Alessia Cara,Wild Things,551.773,56,84,-,-,14,25
+Apr-16,44,Disturbed,The Sound Of Silence,540.67,42,44,-,-,40,4
+Apr-16,45,Thomas Rhett,Die A Happy Man,514.922,36,-,-,-,-,-
+Apr-16,46,Jonas Blue,Fast Car,513.767,-,-,5,14,-,21
+Apr-16,47,Brett Eldredge,Drunk On Your Love,512.422,35,-,-,-,-,-
+Apr-16,48,Tim McGraw,Humble And Kind,507.123,30,-,-,-,37,-
+Apr-16,49,Fetty Wap & Remy Boyz,679,501.178,39,70,-,-,37,-
+Apr-16,50,Coldplay,Adventure Of A Lifetime,499.883,53,28,-,29,20,-
+May-16,1,"Drake, WizKid & Kyla",One Dance,2442.995,1,1,1,4,1,1
+May-16,2,Mike Posner,I Took A Pill In Ibiza,1985.254,4,3,5,8,2,6
+May-16,3,Desiigner,Panda,1850.986,1,7,-,16,4,10
+May-16,4,Lukas Graham,Seven Years,1794.852,2,10,-,10,1,4
+May-16,5,Fifth Harmony & Ty Dolla Sign,Work From Home,1707.662,5,5,7,17,5,6
+May-16,6,Rihanna & Drake,Work,1573.537,1,13,-,32,4,26
+May-16,7,Sia,Cheap Thrills,1564.787,38,2,1,1,9,11
+May-16,8,Twenty One Pilots,Stressed Out,1441.075,11,16,5,6,6,14
+May-16,9,DNCE,Cake By The Ocean,1408.982,9,4,7,26,10,20
+May-16,10,The Chainsmokers & Daya,Don't Let Me Down,1402.531,7,44,7,45,7,3
+May-16,11,Justin Bieber,Love Yourself,1343.309,8,25,-,13,6,28
+May-16,12,Meghan Trainor,No,1301.919,4,11,-,85,10,12
+May-16,13,Zayn,Pillow talk,1275.305,5,24,-,107,8,21
+May-16,14,G-Eazy & Bebe Rexha,"Me, Myself & I",1142.092,10,23,-,28,13,41
+May-16,15,Ariana Grande,Dangerous Woman,1100.732,14,17,-,40,15,22
+May-16,16,Rihanna & Calvin Harris,This Is What You Came For,1063.909,9,2,5,5,6,2
+May-16,17,Alan Walker,Faded,1043.399,91,8,3,7,36,5
+May-16,18,Justin Bieber,Sorry,1021.33,16,30,-,44,15,38
+May-16,19,Flo-Rida,My House,963.874,12,-,-,99,9,17
+May-16,20,Rihanna,Needed Me,919.472,10,48,-,154,27,48
+May-16,21,Zara Larsson & MNEK,Never Forget You,914.613,14,53,-,-,19,-
+May-16,22,The Chainsmokers & Rozes,Roses,858.894,28,21,-,69,18,24
+May-16,23,Charlie Puth,One Call Away,856.88,23,64,-,38,23,18
+May-16,24,Drake & The Throne,Pop Style,845.67,19,34,-,-,19,-
+May-16,25,Nick Jonas & Tove Lo,Close,836.286,26,25,-,-,22,37
+May-16,26,Shawn Mendes,Stitches,816.342,26,22,-,182,29,42
+May-16,27,Justin Timberlake,Can't Stop The Feeling,799.651,1,2,1,1,2,3
+May-16,28,Beyonce,Hold Up,753.832,13,11,-,14,37,25
+May-16,29,Future & The Weeknd,Low Life,734.908,18,-,-,-,25,-
+May-16,30,Kevin Gates,2 Phones,684.2,18,-,-,-,-,-
+May-16,31,Disturbed,The Sound Of Silence,681.611,42,29,-,-,41,8
+May-16,32,Jeremih,oui,680.627,20,-,-,-,-,-
+May-16,33,James Bay,Let It Go,680.042,28,88,-,162,40,-
+May-16,34,DJ Snake & Bipolar Sunshine,Middle,679.501,22,-,-,-,20,-
+May-16,35,"Major Lazer, Nyla & Fuse ODG",Light It Up,670.533,75,19,-,52,32,-
+May-16,36,Prince & The Revolution,Purple Rain,656.555,4,6,-,1,24,3
+May-16,37,Alessia Cara,Wild Things,655.488,51,63,-,-,14,27
+May-16,38,Pink,Just Like Fire,646.033,30,36,-,56,29,1
+May-16,39,Beyonce,Formation,643.305,10,31,-,24,32,17
+May-16,40,Beyonce,Sorry,601.515,11,33,-,62,40,-
+May-16,41,Bryson Tiller,Exchange,580.509,31,-,-,-,-,-
+May-16,42,Rihanna,Kiss It Better,549.325,62,46,-,92,-,48
+May-16,43,Dierks Bentley,Somewhere On A Beach,538.341,35,-,-,-,-,-
+May-16,44,Bryson Tiller,Don't,537.37,30,-,-,-,-,-
+May-16,45,Ruth B,Lost Boy,533.22,33,-,-,-,32,-
+May-16,46,Tim McGraw,Humble And Kind,521.342,36,-,-,-,45,-
+May-16,47,"Kanye West, Rihanna & Swizz Beatz",Famous,514.315,49,46,-,-,37,-
+May-16,48,Jason Derulo,If It Ain't Love,508.062,67,49,-,-,49,34
+May-16,49,Flume & Kai,Never Be Like You,498.878,59,-,-,45,-,16
+May-16,50,Chris Young & Cassadee Pope,Think Of You,498.334,40,-,-,-,-,-
+Jun-16,1,"Drake, WizKid & Kyla",One Dance,2539.499,1,1,3,6,1,1
+Jun-16,2,Justin Timberlake,Can't Stop The Feeling,2329.125,1,2,1,1,1,3
+Jun-16,3,Rihanna & Calvin Harris,This Is What You Came For,1754.119,7,3,5,10,7,1
+Jun-16,4,The Chainsmokers & Daya,Don't Let Me Down,1732.696,4,24,6,29,6,4
+Jun-16,5,Desiigner,Panda,1732.65,2,8,-,17,5,8
+Jun-16,6,Mike Posner,I Took A Pill In Ibiza,1614.482,5,7,9,11,3,12
+Jun-16,7,Sia,Cheap Thrills,1578.475,13,4,4,2,4,19
+Jun-16,8,Fifth Harmony & Ty Dolla Sign,Work From Home,1537.672,4,10,-,20,4,13
+Jun-16,9,Lukas Graham,Seven Years,1474.606,4,17,-,16,4,17
+Jun-16,10,DNCE,Cake By The Ocean,1355.117,14,9,6,32,11,6
+Jun-16,11,Rihanna & Drake,Work,1175.704,8,22,-,46,13,42
+Jun-16,12,Pink,Just Like Fire,1127.346,10,19,-,37,11,3
+Jun-16,13,Twenty One Pilots,Stressed Out,1126.59,13,27,-,14,11,25
+Jun-16,14,Justin Bieber,Love Yourself,1123.285,11,30,-,19,13,37
+Jun-16,15,Ariana Grande,Dangerous Woman,1104.589,8,19,-,40,10,21
+Jun-16,16,Rihanna,Needed Me,1079.577,8,45,-,-,28,48
+Jun-16,17,Rihanna & Drake,Too Good,1011.809,30,5,-,49,10,5
+Jun-16,18,Zayn,Pillow talk,998.344,9,45,-,185,10,46
+Jun-16,19,Zara Larsson & MNEK,Never Forget You,954.208,13,58,-,-,15,-
+Jun-16,20,Drake,Controlla,926.929,21,18,-,75,27,-
+Jun-16,21,G-Eazy & Bebe Rexha,"Me, Myself & I",904.24,18,39,-,54,16,-
+Jun-16,22,Kungs & Cookin' On 3 Burners,This Girl,893.096,-,2,1,5,-,18
+Jun-16,23,Justin Bieber,Sorry,875.792,24,31,-,55,18,49
+Jun-16,24,Nick Jonas & Tove Lo,Close,869.357,15,25,-,-,18,-
+Jun-16,25,Alan Walker,Faded,861.109,80,16,6,13,32,14
+Jun-16,26,Kent Jones,Don't Mind,817.217,11,39,-,68,45,-
+Jun-16,27,Flo-Rida,My House,814.496,12,-,-,137,15,27
+Jun-16,28,Meghan Trainor,No,800.938,19,41,-,155,10,19
+Jun-16,29,James Bay,Let It Go,745.983,27,84,-,82,46,-
+Jun-16,30,Twenty One Pilots,Ride,736.169,15,64,-,-,30,20
+Jun-16,31,Drake & The Throne,Pop Style,734.591,23,47,-,-,25,-
+Jun-16,32,Florida Georgia Line,H.O.L.Y.,728.333,17,-,-,-,30,-
+Jun-16,33,Future & The Weeknd,Low Life,703.625,20,-,-,-,31,-
+Jun-16,34,Adele,Send My Love (To Your New Lover),690.591,26,15,-,45,26,24
+Jun-16,35,Ruth B,Lost Boy,647.91,25,-,-,-,16,-
+Jun-16,36,Gnash & Olivia O'Brien,I Hate U I Love U,642.094,59,7,-,-,-,-
+Jun-16,37,Meghan Trainor,Me Too,621.823,31,96,-,98,20,4
+Jun-16,38,Ariana Grande,Into You,615.909,47,26,-,64,26,11
+Jun-16,39,Alessia Cara,Wild Things,609.202,50,78,-,-,18,35
+Jun-16,40,"Major Lazer, Nyla & Fuse ODG",Light It Up,603.637,73,24,-,86,35,-
+Jun-16,41,Jeremih,oui,603.412,22,-,-,-,-,-
+Jun-16,42,Flume & Kai,Never Be Like You,592.838,46,-,-,27,47,20
+Jun-16,43,Kevin Gates,2 Phones,586.402,25,-,-,-,-,-
+Jun-16,44,DJ Snake & Bipolar Sunshine,Middle,551.631,29,-,-,-,22,-
+Jun-16,45,Disturbed,The Sound Of Silence,551.613,49,35,-,-,-,29
+Jun-16,46,O.T. Genasis & Young Dolph,Cut It,539.397,36,-,-,-,-,-
+Jun-16,47,Bryson Tiller,Exchange,538.377,32,-,-,-,-,-
+Jun-16,48,Beyonce,Sorry,537.966,31,-,-,170,-,-
+Jun-16,49,David Guetta & Zara Larsson,This One's For You,531.739,-,16,1,1,-,-
+Jun-16,50,Blake Shelton,Came Here To Forget,506.812,36,-,-,-,-,-
+Jul-16,1,"Drake, WizKid & Kyla",One Dance,2571.962,1,1,5,9,2,1
+Jul-16,2,Justin Timberlake,Can't Stop The Feeling,2347.321,2,3,4,1,1,3
+Jul-16,3,The Chainsmokers & Daya,Don't Let Me Down,2031.908,3,2,6,19,5,6
+Jul-16,4,Sia,Cheap Thrills,1832.066,3,8,9,5,1,28
+Jul-16,5,Rihanna & Calvin Harris,This Is What You Came For,1763.818,4,4,-,6,1,2
+Jul-16,6,Desiigner,Panda,1564.842,2,13,-,21,8,7
+Jul-16,7,Fifth Harmony & Ty Dolla Sign,Work From Home,1353.951,5,18,-,43,5,16
+Jul-16,8,Mike Posner,I Took A Pill In Ibiza,1342.86,8,12,-,18,3,17
+Jul-16,9,Kent Jones,Don't Mind,1298.24,8,9,-,41,17,24
+Jul-16,10,Adele,Send My Love (To Your New Lover),1202.762,10,5,-,66,12,13
+Jul-16,11,Twenty One Pilots,Ride,1199.203,6,49,-,42,14,18
+Jul-16,12,Pink,Just Like Fire,1191.205,10,28,-,38,11,6
+Jul-16,13,Rihanna,Needed Me,1188.862,7,38,-,-,29,48
+Jul-16,14,Lukas Graham,Seven Years,1182.217,6,32,-,28,9,24
+Jul-16,15,Rihanna & Drake,Too Good,1156.475,19,3,-,57,9,3
+Jul-16,16,DNCE,Cake By The Ocean,1035.695,22,14,-,37,12,10
+Jul-16,17,Drake,Controlla,1018.442,16,21,-,80,31,49
+Jul-16,18,Twenty One Pilots,Stressed Out,1016.178,21,46,-,24,14,33
+Jul-16,19,Rihanna & Drake,Work,1002.144,12,35,-,61,19,-
+Jul-16,20,Kungs & Cookin' On 3 Burners,This Girl,986.975,-,2,1,5,43,17
+Jul-16,21,Justin Bieber,Love Yourself,970.038,19,42,-,36,17,40
+Jul-16,22,Meghan Trainor,Me Too,952.829,15,84,-,148,11,4
+Jul-16,23,Ariana Grande,Dangerous Woman,909.706,14,51,-,171,13,-
+Jul-16,24,Shawn Mendes,Treat You Better,883.391,20,6,9,-,8,4
+Jul-16,25,Nick Jonas & Tove Lo,Close,873.177,14,48,-,-,12,-
+Jul-16,26,James Bay,Let It Go,868.897,16,81,-,55,38,-
+Jul-16,27,Ariana Grande,Into You,860.888,33,14,-,108,20,11
+Jul-16,28,Florida Georgia Line,H.O.L.Y.,828.892,14,-,-,-,24,-
+Jul-16,29,Justin Bieber,Sorry,808.824,33,40,-,78,21,-
+Jul-16,30,DJ Khaled & Drake,For Free,802.613,17,61,-,116,47,-
+Jul-16,31,Twenty One Pilots,Heathens,801.734,14,33,-,63,23,36
+Jul-16,32,Zara Larsson & MNEK,Never Forget You,771.406,16,69,-,-,15,-
+Jul-16,33,Selena Gomez,Kill Em With Kindness,761.966,39,35,-,147,14,33
+Jul-16,34,Zayn,Pillow talk,741.677,20,65,-,-,22,-
+Jul-16,35,David Guetta & Zara Larsson,This One's For You,734.033,-,19,3,1,-,-
+Jul-16,36,Coldplay,Hymn For The Weekend,730.854,54,19,-,25,-,-
+Jul-16,37,G-Eazy & Bebe Rexha,"Me, Myself & I",727.383,30,57,-,131,28,-
+Jul-16,38,Charlie Puth & Selena Gomez,We Don't Talk Anymore,723.008,35,28,-,44,44,10
+Jul-16,39,Ruth B,Lost Boy,712.889,24,-,-,-,14,-
+Jul-16,40,Flume & Kai,Never Be Like You,709.712,26,-,-,59,42,32
+Jul-16,41,Gnash & Olivia O'Brien,I Hate U I Love U,679.396,50,7,-,-,-,-
+Jul-16,42,Flo-Rida,My House,666.851,23,-,-,-,23,-
+Jul-16,43,Future & The Weeknd,Low Life,645.023,26,-,-,-,41,-
+Jul-16,44,OneRepublic,Wherever I Go,642.597,55,37,-,78,39,32
+Jul-16,45,Beyonce,Sorry,633.798,26,-,-,150,-,-
+Jul-16,46,Imany,Don't Be So Shy (Filatov & Karas Remix),617.972,-,-,1,3,-,9
+Jul-16,47,"Fat Joe, Remy Ma & Jay-Z",All The Way Up,602.203,29,-,-,-,47,-
+Jul-16,48,"Major Lazer, Nyla & Fuse ODG",Light It Up,575.063,76,36,-,97,37,-
+Jul-16,49,Kiiara,Gold,566.879,45,52,-,-,-,46
+Jul-16,50,Future,Wicked,524.792,41,-,-,-,-,-
+Aug-16,1,Sia,Cheap Thrills,2045.696,1,13,-,5,1,28
+Aug-16,2,"Drake, WizKid & Kyla",One Dance,2008.751,1,5,7,12,4,4
+Aug-16,3,Justin Timberlake,Can't Stop The Feeling,1934.07,2,11,6,1,3,6
+Aug-16,4,"Major Lazer, Justin Bieber & MO",Cold Water,1876.193,2,1,2,2,1,1
+Aug-16,5,Rihanna & Calvin Harris,This Is What You Came For,1809.356,3,7,-,7,1,3
+Aug-16,6,The Chainsmokers & Daya,Don't Let Me Down,1725.02,5,4,8,22,4,11
+Aug-16,7,Shawn Mendes,Treat You Better,1514.048,14,6,4,117,7,4
+Aug-16,8,Twenty One Pilots,Ride,1349.096,6,47,-,15,13,21
+Aug-16,9,Adele,Send My Love (To Your New Lover),1265.165,9,16,-,62,10,13
+Aug-16,10,Kent Jones,Don't Mind,1263.561,8,9,-,35,14,19
+Aug-16,11,Twenty One Pilots,Heathens,1247.902,4,5,-,31,9,4
+Aug-16,12,Desiigner,Panda,1218.646,8,31,-,28,9,23
+Aug-16,13,Rihanna,Needed Me,1182.071,7,44,-,186,25,48
+Aug-16,14,Rihanna & Drake,Too Good,1179.872,17,8,-,48,10,7
+Aug-16,15,Charlie Puth & Selena Gomez,We Don't Talk Anymore,1130.132,19,14,-,17,17,13
+Aug-16,16,Mike Posner,I Took A Pill In Ibiza,1106.936,13,29,-,24,6,27
+Aug-16,17,Kungs & Cookin' On 3 Burners,This Girl,1104.205,65,7,3,3,19,25
+Aug-16,18,Fifth Harmony & Ty Dolla Sign,Work From Home,1095.763,12,24,-,71,7,34
+Aug-16,19,Pink,Just Like Fire,1055.873,11,52,-,64,13,25
+Aug-16,20,Ariana Grande,Into You,1030.148,13,14,-,121,18,11
+Aug-16,21,Drake,Controlla,1008.529,16,25,-,83,31,49
+Aug-16,22,DJ Khaled & Drake,For Free,923.62,13,70,-,132,47,-
+Aug-16,23,Meghan Trainor,Me Too,914.268,13,-,-,139,9,15
+Aug-16,24,Fifth Harmony & Fetty Wap,All In My Head,898.73,24,25,-,-,23,19
+Aug-16,25,Lukas Graham,Seven Years,880.911,22,49,-,51,15,43
+Aug-16,26,DNCE,Cake By The Ocean,879.195,37,22,-,54,27,24
+Aug-16,27,Twenty One Pilots,Stressed Out,861.988,25,62,-,34,21,-
+Aug-16,28,Coldplay,Hymn For The Weekend,859.18,40,21,-,29,-,-
+Aug-16,29,Rihanna & Drake,Work,855.715,21,55,-,82,26,-
+Aug-16,30,"Lil' Wayne, Wiz Khalifa & Imagine Dragons",Sucker For Pain,800.383,15,13,8,18,23,12
+Aug-16,31,Justin Bieber,Love Yourself,798.851,30,60,-,50,28,-
+Aug-16,32,Gnash & Olivia O'Brien,I Hate U I Love U,792.462,27,18,-,-,41,-
+Aug-16,33,Katy Perry,Rise,787.328,11,67,-,34,13,1
+Aug-16,34,Flume & Kai,Never Be Like You,781.425,24,-,-,87,34,34
+Aug-16,35,Florida Georgia Line,H.O.L.Y.,774.818,14,-,-,-,24,-
+Aug-16,36,Justin Bieber,Sorry,728.433,41,53,-,94,23,-
+Aug-16,37,DJ Snake & Justin Bieber,Let Me Love You,711.383,12,2,4,1,6,2
+Aug-16,38,Selena Gomez,Kill Em With Kindness,706.285,50,36,-,150,16,36
+Aug-16,39,Kiiara,Gold,701.64,32,53,-,-,-,-
+Aug-16,40,James Bay,Let It Go,689.551,18,94,-,64,37,-
+Aug-16,41,Imany,Don't Be So Shy (Filatov & Karas Remix),678.015,-,-,1,1,-,9
+Aug-16,42,The Chainsmokers & Halsey,Closer,670.046,6,3,-,122,4,1
+Aug-16,43,Enrique Iglesias & Wisin,Duele el corazon,628.641,82,-,-,3,-,-
+Aug-16,44,"DJ Khaled, Jay-Z & Future",I Got The Keys,621.514,30,-,-,125,-,-
+Aug-16,45,DRAM & Lil Yachty,Broccoli,613.757,26,-,-,-,-,-
+Aug-16,46,Future & The Weeknd,Low Life,592.135,32,-,-,-,48,-
+Aug-16,47,Galantis,No Money,578.243,88,19,-,68,-,30
+Aug-16,48,Ariana Grande,Dangerous Woman,576.158,24,69,-,-,34,-
+Aug-16,49,Beyonce,Sorry,572.292,28,-,-,151,-,-
+Aug-16,50,Nick Jonas & Tove Lo,Close,561.388,31,81,-,-,19,-
+Sep-16,1,The Chainsmokers & Halsey,Closer,2427.362,1,1,2,52,1,1
+Sep-16,2,"Major Lazer, Justin Bieber & MO",Cold Water,2201.433,2,1,2,23,1,3
+Sep-16,3,DJ Snake & Justin Bieber,Let Me Love You,1890.51,12,2,1,3,6,2
+Sep-16,4,Twenty One Pilots,Heathens,1821.637,2,5,9,26,4,3
+Sep-16,5,Sia,Cheap Thrills,1682.809,1,15,-,8,2,30
+Sep-16,6,Rihanna & Calvin Harris,This Is What You Came For,1514.876,3,12,-,10,3,10
+Sep-16,7,The Chainsmokers & Daya,Don't Let Me Down,1506.989,5,6,-,27,5,19
+Sep-16,8,"Drake, WizKid & Kyla",One Dance,1433.143,5,8,-,20,7,11
+Sep-16,9,Shawn Mendes,Treat You Better,1368.591,8,8,6,117,7,7
+Sep-16,10,Twenty One Pilots,Ride,1353.132,5,48,-,12,16,35
+Sep-16,11,Charlie Puth & Selena Gomez,We Don't Talk Anymore,1315.283,10,14,-,8,11,15
+Sep-16,12,Justin Timberlake,Can't Stop The Feeling,1311.466,9,18,-,2,8,13
+Sep-16,13,"Lil' Wayne, Wiz Khalifa & Imagine Dragons",Sucker For Pain,1257.98,15,11,8,29,19,7
+Sep-16,14,Adele,Send My Love (To Your New Lover),1188.774,8,30,-,53,12,15
+Sep-16,15,Rihanna & Drake,Too Good,1144.772,14,10,-,53,13,16
+Sep-16,16,Kungs & Cookin' On 3 Burners,This Girl,1129.267,30,11,5,5,10,25
+Sep-16,17,Ariana Grande,Into You,1078.194,13,21,-,91,13,21
+Sep-16,18,Rihanna,Needed Me,1058.274,9,48,-,-,27,44
+Sep-16,19,Desiigner,Panda,943.066,16,44,-,49,24,31
+Sep-16,20,Coldplay,Hymn For The Weekend,873.97,26,31,-,35,-,-
+Sep-16,21,Drake,Controlla,866.742,22,32,-,92,44,-
+Sep-16,22,Mike Posner,I Took A Pill In Ibiza,840.663,30,35,-,30,15,36
+Sep-16,23,Tory Lanez,LUV,838.087,19,47,-,119,29,-
+Sep-16,24,Kent Jones,Don't Mind,838.001,24,16,-,38,20,27
+Sep-16,25,Fifth Harmony & Ty Dolla Sign,Work From Home,832.401,23,42,-,99,14,44
+Sep-16,26,Gnash & Olivia O'Brien,I Hate U I Love U,824.025,22,27,-,-,33,-
+Sep-16,27,Kiiara,Gold,807.95,20,73,-,-,28,-
+Sep-16,28,Fifth Harmony & Fetty Wap,All In My Head,785.139,27,26,-,-,21,42
+Sep-16,29,Flume & Kai,Never Be Like You,768.798,20,-,-,116,23,39
+Sep-16,30,Twenty One Pilots,Stressed Out,767.025,34,57,-,36,28,-
+Sep-16,31,Martin Garrix & Bebe Rexha,In The Name Of Love,760.961,56,10,-,43,24,8
+Sep-16,32,Pink,Just Like Fire,750.023,21,80,-,105,21,40
+Sep-16,33,DRAM & Lil Yachty,Broccoli,745.169,14,-,-,-,38,-
+Sep-16,34,DJ Khaled & Drake,For Free,744.91,15,95,-,174,-,-
+Sep-16,35,Rihanna & Drake,Work,702.536,34,59,-,124,36,-
+Sep-16,36,Lukas Graham,Seven Years,676.528,40,63,-,70,25,-
+Sep-16,37,Hailee Steinfeld & Grey,Starving,652.455,39,40,-,-,40,9
+Sep-16,38,Meghan Trainor,Me Too,645.719,20,-,-,-,11,28
+Sep-16,39,DNCE,Cake By The Ocean,638.798,45,34,-,67,34,24
+Sep-16,40,Britney Spears & G-Eazy,Make Me...,630.035,17,75,-,78,22,43
+Sep-16,41,Ariana Grande & Nicki Minaj,Side To Side,608.502,18,6,-,66,12,5
+Sep-16,42,Florida Georgia Line,H.O.L.Y.,608.208,27,-,-,-,31,-
+Sep-16,43,Imany,Don't Be So Shy (Filatov & Karas Remix),604.765,-,-,1,1,-,25
+Sep-16,44,Daya,"Sit Still, Look Pretty",588.918,28,-,-,-,-,-
+Sep-16,45,Katy Perry,Rise,577.438,29,94,-,72,26,24
+Sep-16,46,Usher & Young Thug,No Limit,563.565,33,-,-,-,-,-
+Sep-16,47,Kehlani,Gangsta,560.135,41,67,-,112,37,-
+Sep-16,48,Desiigner,Tiimmy Turner,550.201,34,-,-,-,-,-
+Sep-16,49,Skrillex & Rick Ross,Purple Lamborghini,542.101,33,72,-,109,28,43
+Sep-16,50,Selena Gomez,Kill Em With Kindness,535.087,63,43,-,109,29,45
+Oct-16,1,The Chainsmokers & Halsey,Closer,2537.257,1,1,2,31,1,1
+Oct-16,2,DJ Snake & Justin Bieber,Let Me Love You,2102.619,4,3,2,3,4,6
+Oct-16,3,Twenty One Pilots,Heathens,2058.608,2,9,9,12,3,4
+Oct-16,4,"Major Lazer, Justin Bieber & MO",Cold Water,1831.144,3,4,6,32,2,7
+Oct-16,5,The Weeknd & Daft Punk,Starboy,1624.364,2,2,7,1,2,2
+Oct-16,6,Sia & Kendrick Lamar,The Greatest,1577.329,24,5,3,5,6,2
+Oct-16,7,Sia,Cheap Thrills,1456.346,4,30,-,20,3,36
+Oct-16,8,Shawn Mendes,Treat You Better,1440.202,6,13,-,39,7,16
+Oct-16,9,The Chainsmokers & Daya,Don't Let Me Down,1386.017,5,11,-,56,8,26
+Oct-16,10,Rihanna & Calvin Harris,This Is What You Came For,1304.814,7,20,-,26,5,19
+Oct-16,11,Charlie Puth & Selena Gomez,We Don't Talk Anymore,1279.543,9,27,-,11,12,23
+Oct-16,12,Calvin Harris,My Way,1270.242,24,4,5,14,15,9
+Oct-16,13,Ariana Grande & Nicki Minaj,Side To Side,1244.973,10,4,-,88,10,3
+Oct-16,14,"Drake, WizKid & Kyla",One Dance,1208.311,14,14,-,43,13,21
+Oct-16,15,Twenty One Pilots,Ride,1188.744,9,52,-,12,19,39
+Oct-16,16,Justin Timberlake,Can't Stop The Feeling,1166.379,17,26,-,13,17,18
+Oct-16,17,DRAM & Lil Yachty,Broccoli,1084.524,6,93,-,-,27,-
+Oct-16,18,Rihanna & Drake,Too Good,1054.898,15,17,-,124,15,27
+Oct-16,19,Adele,Send My Love (To Your New Lover),1054.356,10,59,-,60,16,22
+Oct-16,20,"Lil' Wayne, Wiz Khalifa & Imagine Dragons",Sucker For Pain,1040.339,22,15,-,59,21,9
+Oct-16,21,Kungs & Cookin' On 3 Burners,This Girl,1007.25,26,21,-,9,8,38
+Oct-16,22,Rihanna,Needed Me,995.764,11,52,-,-,29,44
+Oct-16,23,Martin Garrix & Bebe Rexha,In The Name Of Love,990.552,39,9,-,26,19,13
+Oct-16,24,Hailee Steinfeld & Grey,Starving,987.148,20,5,-,-,18,5
+Oct-16,25,Gnash & Olivia O'Brien,I Hate U I Love U,963.335,10,39,-,-,23,-
+Oct-16,26,Ariana Grande,Into You,923.605,17,31,-,-,14,30
+Oct-16,27,Coldplay,Hymn For The Weekend,886.398,25,52,-,50,-,-
+Oct-16,28,Tory Lanez,LUV,884.084,21,47,-,179,28,-
+Oct-16,29,Kiiara,Gold,831.589,13,98,-,-,20,-
+Oct-16,30,Desiigner,Panda,828.653,25,61,-,79,32,47
+Oct-16,31,Drake,Controlla,782.714,30,36,-,193,45,46
+Oct-16,32,Fifth Harmony & Ty Dolla Sign,Work From Home,687.593,35,60,-,-,23,-
+Oct-16,33,Lady GaGa,Perfect Illusion,685.044,15,44,-,95,17,14
+Oct-16,34,"Kanye West, Post Malone & Ty Dolla Sign",Fade,639.319,47,50,-,40,37,-
+Oct-16,35,X Ambassadors,Unsteady,637.798,26,-,-,-,-,-
+Oct-16,36,Daya,"Sit Still, Look Pretty",607.985,29,-,-,-,-,-
+Oct-16,37,DJ Khaled & Drake,For Free,604.032,27,-,-,-,-,-
+Oct-16,38,Pink,Just Like Fire,579.681,36,-,-,157,40,-
+Oct-16,39,Kenny Chesney & Pink,Setting The World On Fire,577.552,34,-,-,-,48,-
+Oct-16,40,Niall Horan,This Town,573.31,25,9,-,34,29,5
+Oct-16,41,Desiigner,Tiimmy Turner,570.071,34,-,-,-,50,-
+Oct-16,42,Usher & Young Thug,No Limit,568.744,32,-,-,-,-,-
+Oct-16,43,Fifth Harmony & Fetty Wap,All In My Head,566.456,52,41,-,-,26,-
+Oct-16,44,Mike Posner,I Took A Pill In Ibiza,550.272,43,57,-,75,20,45
+Oct-16,45,Alessia Cara,Scars To Your Beautiful,542.423,42,93,-,-,23,-
+Oct-16,46,Young M.A,Ooouuu,532.604,28,-,-,-,-,-
+Oct-16,47,"Rob $tone, J. Davi$ & Spooks",Chill Bill,524.403,40,-,-,-,-,-
+Oct-16,48,"Young Thug, Travi$ Scott & Quavo",Pick Up The Phone,522.357,47,-,-,137,-,-
+Oct-16,49,Rag'n'Bone Man,Human,516.053,-,-,1,7,-,-
+Oct-16,50,Billy Currington,It Don't Hurt Like It Used To,482.629,44,-,-,-,-,-
+Nov-16,1,The Chainsmokers & Halsey,Closer,2280.149,1,3,6,31,1,3
+Nov-16,2,The Weeknd & Daft Punk,Starboy,2219.024,2,4,4,6,2,2
+Nov-16,3,DJ Snake & Justin Bieber,Let Me Love You,1783.316,4,12,8,11,4,10
+Nov-16,4,Twenty One Pilots,Heathens,1630.063,3,21,10,4,3,15
+Nov-16,5,Bruno Mars,24K Magic,1606.309,5,5,-,1,6,7
+Nov-16,6,Sia & Kendrick Lamar,The Greatest,1515.174,19,8,3,5,7,7
+Nov-16,7,Ariana Grande & Nicki Minaj,Side To Side,1339.671,6,9,-,89,7,6
+Nov-16,8,"Major Lazer, Justin Bieber & MO",Cold Water,1329.091,7,13,-,76,3,12
+Nov-16,9,Calvin Harris,My Way,1304.953,30,10,5,9,14,11
+Nov-16,10,Maroon 5 & Kendrick Lamar,I Don't Wanna Know,1288.973,9,5,-,36,8,6
+Nov-16,11,Shawn Mendes,Treat You Better,1223.33,8,16,-,39,7,24
+Nov-16,12,Sia,Cheap Thrills,1155.104,9,36,-,24,8,49
+Nov-16,13,Rae Sremmurd & Gucci Mane,Black Beatles,1154.483,1,2,-,2,3,6
+Nov-16,14,DRAM & Lil Yachty,Broccoli,1115.216,5,97,-,200,25,-
+Nov-16,15,Zay Hilfiger & Zayion McCall,Juju On Dat Beat (TZ Anthem),1108.598,8,37,-,134,16,27
+Nov-16,16,Hailee Steinfeld & Grey,Starving,1108.13,14,5,-,-,13,5
+Nov-16,17,Justin Timberlake,Can't Stop The Feeling,1076.8,16,29,-,14,22,27
+Nov-16,18,The Chainsmokers & Daya,Don't Let Me Down,1066.821,13,23,-,95,14,32
+Nov-16,19,Gnash & Olivia O'Brien,I Hate U I Love U,989.299,10,49,-,-,22,-
+Nov-16,20,Rihanna & Calvin Harris,This Is What You Came For,982.891,14,34,-,53,11,36
+Nov-16,21,James Arthur,Say You Won't Let Go,959.063,80,2,6,48,32,1
+Nov-16,22,"Drake, WizKid & Kyla",One Dance,955.803,17,22,-,61,17,29
+Nov-16,23,Martin Garrix & Bebe Rexha,In The Name Of Love,925.189,31,18,-,32,20,22
+Nov-16,24,Charlie Puth & Selena Gomez,We Don't Talk Anymore,896.379,26,44,-,12,12,38
+Nov-16,25,Twenty One Pilots,Ride,876.161,16,81,-,14,29,50
+Nov-16,26,"Lil' Wayne, Wiz Khalifa & Imagine Dragons",Sucker For Pain,858.42,23,26,-,94,28,19
+Nov-16,27,Kiiara,Gold,791.881,14,-,-,-,21,-
+Nov-16,28,Drake,Fake Love,791.07,10,10,-,83,10,18
+Nov-16,29,Rihanna & Drake,Too Good,776.43,24,32,-,-,21,35
+Nov-16,30,Tory Lanez,LUV,765.634,20,47,-,-,30,-
+Nov-16,31,Alessia Cara,Scars To Your Beautiful,760.695,22,66,-,-,15,33
+Nov-16,32,Adele,Send My Love (To Your New Lover),728.111,19,-,-,79,26,37
+Nov-16,33,Young M.A,Ooouuu,706.714,19,-,-,-,50,-
+Nov-16,34,The Chainsmokers & Phoebe Ryan,All We Know,705.155,38,38,-,-,16,8
+Nov-16,35,Rihanna,Needed Me,682.259,18,78,-,-,42,-
+Nov-16,36,Coldplay,Hymn For The Weekend,673.248,27,60,-,49,-,-
+Nov-16,37,Amine,Caroline,666.84,18,-,-,-,42,-
+Nov-16,38,Niall Horan,This Town,665.252,54,20,-,-,41,14
+Nov-16,39,Shawn Mendes,Mercy,662.829,58,15,-,-,37,13
+Nov-16,40,Desiigner,Panda,652.213,32,80,-,122,36,-
+Nov-16,41,"Clean Bandit, Sean Paul & Anne-Marie",Rockabye,643.07,-,1,2,49,79,14
+Nov-16,42,Rag'n'Bone Man,Human,630.26,-,77,1,5,-,46
+Nov-16,43,Zara Larsson,Ain't My Fault,628.875,83,14,-,119,46,17
+Nov-16,44,X Ambassadors,Unsteady,621.564,25,-,-,-,-,-
+Nov-16,45,Little Mix,Shout Out To My Ex,613.174,69,1,-,106,37,4
+Nov-16,46,Keith Urban,Blue Ain't Your Color,591.586,25,-,-,-,40,-
+Nov-16,47,Desiigner,Tiimmy Turner,576.455,34,-,-,-,38,-
+Nov-16,48,Daya,"Sit Still, Look Pretty",574.734,31,-,-,-,64,-
+Nov-16,49,Kenny Chesney & Pink,Setting The World On Fire,567.893,29,-,-,-,52,-
+Nov-16,50,"Rob $tone, J. Davi$ & Spooks",Chill Bill,566.769,29,-,-,-,53,-
+Dec-16,1,The Weeknd & Daft Punk,Starboy,2284.87,2,3,3,4,1,2
+Dec-16,2,Rae Sremmurd & Gucci Mane,Black Beatles,2280.607,1,2,8,2,3,3
+Dec-16,3,The Chainsmokers & Halsey,Closer,1792.312,2,9,10,56,1,5
+Dec-16,4,Bruno Mars,24K Magic,1704.894,4,6,-,1,3,4
+Dec-16,5,Maroon 5 & Kendrick Lamar,I Don't Wanna Know,1473.658,7,5,-,20,6,8
+Dec-16,6,DJ Snake & Justin Bieber,Let Me Love You,1458.78,5,15,-,22,5,19
+Dec-16,7,Ariana Grande & Nicki Minaj,Side To Side,1430.639,4,13,-,97,5,15
+Dec-16,8,Twenty One Pilots,Heathens,1376.692,4,39,-,4,4,34
+Dec-16,9,Sia & Kendrick Lamar,The Greatest,1229.233,18,12,8,12,8,14
+Dec-16,10,Zay Hilfiger & Zayion McCall,Juju On Dat Beat (TZ Anthem),1207.646,5,40,-,120,13,26
+Dec-16,11,"Clean Bandit, Sean Paul & Anne-Marie",Rockabye,1205.211,90,1,1,8,28,1
+Dec-16,12,James Arthur,Say You Won't Let Go,1192.634,60,4,6,31,16,1
+Dec-16,13,Drake,Fake Love,1170.251,11,11,-,178,12,16
+Dec-16,14,Hailee Steinfeld & Grey,Starving,1139.122,12,10,-,-,12,13
+Dec-16,15,"Major Lazer, Justin Bieber & MO",Cold Water,1107.065,12,22,-,114,7,21
+Dec-16,16,Justin Timberlake,Can't Stop The Feeling,1023.937,16,38,-,27,22,13
+Dec-16,17,Sia,Cheap Thrills,1012.844,15,43,-,31,13,-
+Dec-16,18,Shawn Mendes,Treat You Better,1006.86,13,24,-,106,11,37
+Dec-16,19,Martin Garrix & Bebe Rexha,In The Name Of Love,976.031,24,29,-,58,19,32
+Dec-16,20,Rag'n'Bone Man,Human,964.57,-,2,1,2,-,38
+Dec-16,21,DRAM & Lil Yachty,Broccoli,946.283,9,-,-,200,23,-
+Dec-16,22,The Weeknd & Daft Punk,I Feel It Coming,922.501,22,9,-,2,12,11
+Dec-16,23,Alessia Cara,Scars To Your Beautiful,914.363,13,91,-,-,14,8
+Dec-16,24,The Chainsmokers & Daya,Don't Let Me Down,886.596,23,35,-,109,21,48
+Dec-16,25,Gnash & Olivia O'Brien,I Hate U I Love U,871.144,11,82,-,-,28,-
+Dec-16,26,Amine,Caroline,858.313,12,-,-,-,33,-
+Dec-16,27,Mariah Carey,All I Want For Christmas Is You,846.521,17,5,5,4,11,36
+Dec-16,28,John Legend,Love Me Now,834.804,23,30,-,68,20,25
+Dec-16,29,"Drake, WizKid & Kyla",One Dance,807.196,32,25,-,85,26,41
+Dec-16,30,Shawn Mendes,Mercy,805.456,35,20,-,172,30,17
+Dec-16,31,Rihanna & Calvin Harris,This Is What You Came For,785.987,25,52,-,52,19,50
+Dec-16,32,Machine Gun Kelly & Camila Cabello,Bad Things,710.2,10,-,-,-,26,-
+Dec-16,33,X Ambassadors,Unsteady,705.345,20,-,-,-,-,-
+Dec-16,34,Young M.A,Ooouuu,697.424,20,-,-,-,50,-
+Dec-16,35,Calvin Harris,My Way,687.997,55,16,7,9,19,22
+Dec-16,36,The Weeknd,Party Monster,682.797,16,17,-,88,8,33
+Dec-16,37,Niall Horan,This Town,673.903,29,32,-,-,32,28
+Dec-16,38,Keith Urban,Blue Ain't Your Color,665.75,24,-,-,-,40,-
+Dec-16,39,Twenty One Pilots,Ride,657.991,28,-,-,16,44,-
+Dec-16,40,Rihanna,Love On The Brain,645.427,20,-,-,106,35,-
+Dec-16,41,"Rob $tone, J. Davi$ & Spooks",Chill Bill,622.526,29,-,-,-,53,-
+Dec-16,42,Jon Bellion,All Time Low,609.361,32,-,-,-,42,-
+Dec-16,43,Florida Georgia Line & Tim McGraw,May We All,598.433,30,-,-,-,46,-
+Dec-16,44,The Chainsmokers & Phoebe Ryan,All We Know,584.327,60,45,-,-,27,19
+Dec-16,45,Pentatonix,Hallelujah,577.224,45,-,4,131,40,-
+Dec-16,46,"DJ Khaled, Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",Do You Mind,577.17,27,-,-,-,93,-
+Dec-16,47,21 Savage & Metro Boomin & Future,X,571.059,36,-,-,-,66,-
+Dec-16,48,Future & Drake,Used To This,567.944,14,-,-,-,17,-
+Dec-16,49,Rihanna,Needed Me,534.704,32,-,-,-,-,-
+Dec-16,50,Andy Grammer,Fresh Eyes,534.607,59,58,-,-,59,16
+Jan-17,1,The Weeknd & Daft Punk,Starboy,2155.807,1,5,5,11,1,2
+Jan-17,2,Rae Sremmurd & Gucci Mane,Black Beatles,1897.531,1,13,-,12,4,8
+Jan-17,3,The Chainsmokers & Halsey,Closer,1704.887,3,11,-,76,2,4
+Jan-17,4,Bruno Mars,24K Magic,1703.066,4,7,-,4,3,3
+Jan-17,5,"Clean Bandit, Sean Paul & Anne-Marie",Rockabye,1521.577,51,1,1,4,15,1
+Jan-17,6,Maroon 5 & Kendrick Lamar,I Don't Wanna Know,1465.016,7,12,-,25,6,14
+Jan-17,7,Zayn & Taylor Swift,I Don't Wanna Live Forever (Fifty Shades Darker),1416.968,6,17,6,62,9,3
+Jan-17,8,DJ Snake & Justin Bieber,Let Me Love You,1408.661,7,30,-,30,5,20
+Jan-17,9,Ariana Grande & Nicki Minaj,Side To Side,1368.644,5,32,-,90,4,29
+Jan-17,10,Migos & Lil Uzi Vert,Bad And Boujee,1351.979,1,34,-,91,5,34
+Jan-17,11,Drake,Fake Love,1230.937,9,19,-,176,15,27
+Jan-17,12,The Weeknd & Daft Punk,I Feel It Coming,1215.943,22,12,-,1,13,7
+Jan-17,13,Twenty One Pilots,Heathens,1197.844,12,45,-,9,8,36
+Jan-17,14,Zay Hilfiger & Zayion McCall,Juju On Dat Beat (TZ Anthem),1092.963,5,100,-,132,14,39
+Jan-17,15,Alessia Cara,Scars To Your Beautiful,1065.878,12,55,-,-,17,8
+Jan-17,16,Hailee Steinfeld & Grey,Starving,1060.229,17,18,-,-,9,27
+Jan-17,17,Sia & Kendrick Lamar,The Greatest,1057.063,22,34,-,22,10,26
+Jan-17,18,James Arthur,Say You Won't Let Go,1052.909,31,8,10,21,10,5
+Jan-17,19,Justin Timberlake,Can't Stop The Feeling,1026.093,20,21,-,23,20,9
+Jan-17,20,Machine Gun Kelly & Camila Cabello,Bad Things,996.858,9,-,-,177,19,28
+Jan-17,21,Shawn Mendes,Mercy,972.972,17,25,-,172,25,26
+Jan-17,22,Ed Sheeran,Shape Of You,931.227,1,1,1,1,1,1
+Jan-17,23,Sia,Cheap Thrills,928.501,26,37,-,27,16,-
+Jan-17,24,Martin Garrix & Bebe Rexha,In The Name Of Love,899.078,26,46,-,77,21,-
+Jan-17,25,Shawn Mendes,Treat You Better,884.14,23,39,-,135,14,-
+Jan-17,26,Amine,Caroline,880.966,11,-,-,-,33,-
+Jan-17,27,DRAM & Lil Yachty,Broccoli,874.689,10,-,-,-,33,-
+Jan-17,28,John Legend,Love Me Now,866.566,30,17,-,140,21,42
+Jan-17,29,"Major Lazer, Justin Bieber & MO",Cold Water,837.485,34,34,-,164,13,27
+Jan-17,30,The Chainsmokers & Daya,Don't Let Me Down,826.299,29,43,-,135,26,44
+Jan-17,31,Rag'n'Bone Man,Human,821.939,-,2,2,2,96,17
+Jan-17,32,Rihanna,Love On The Brain,816.641,19,-,-,14,32,-
+Jan-17,33,Big Sean,Bounce Back,769.199,16,-,-,-,36,-
+Jan-17,34,Jon Bellion,All Time Low,752.919,16,-,-,-,24,-
+Jan-17,35,J Cole,Deja Vu,751.39,7,61,-,-,7,-
+Jan-17,36,Ed Sheeran,Castle On The Hill,715.364,6,2,2,3,2,2
+Jan-17,37,Adele,Water Under The Bridge,709.453,33,39,-,-,37,45
+Jan-17,38,Young M.A,Ooouuu,707.326,19,-,-,-,41,-
+Jan-17,39,Mariah Carey,All I Want For Christmas Is You,703.331,16,5,5,5,7,15
+Jan-17,40,Niall Horan,This Town,690.501,20,-,-,-,29,-
+Jan-17,41,Shakira & Maluma,Chantaje,659.395,51,-,-,22,50,-
+Jan-17,42,Gnash & Olivia O'Brien,I Hate U I Love U,658.593,25,-,-,-,38,-
+Jan-17,43,Keith Urban,Blue Ain't Your Color,657.294,28,-,-,-,44,-
+Jan-17,44,"Rob $tone, J. Davi$ & Spooks",Chill Bill,610.403,29,-,-,-,59,-
+Jan-17,45,The Weeknd,Party Monster,598.301,47,83,-,-,30,-
+Jan-17,46,21 Savage & Metro Boomin & Future,X,586.74,36,-,-,-,68,-
+Jan-17,47,Pentatonix,Hallelujah,572.714,23,-,4,131,27,-
+Jan-17,48,J Cole,Neighbors,554.047,13,-,-,-,17,-
+Jan-17,49,Auli'i Cravalho,How Far I'll Go,547.968,41,94,-,-,58,49
+Jan-17,50,21 Savage & Metro Boomin,No Heart,537.427,43,-,-,-,79,-
+Feb-17,1,Ed Sheeran,Shape Of You,2548.651,1,1,1,1,1,1
+Feb-17,2,Zayn & Taylor Swift,I Don't Wanna Live Forever (Fifty Shades Darker),1848.972,3,5,2,4,2,3
+Feb-17,3,Migos & Lil Uzi Vert,Bad And Boujee,1606.762,1,30,-,91,5,34
+Feb-17,4,The Chainsmokers,Paris,1526.128,7,5,3,61,2,4
+Feb-17,5,Ed Sheeran,Castle On The Hill,1425.712,6,2,2,39,2,2
+Feb-17,6,"Clean Bandit, Sean Paul & Anne-Marie",Rockabye,1405.822,23,8,2,5,5,3
+Feb-17,7,The Chainsmokers & Halsey,Closer,1372.098,3,25,-,105,2,13
+Feb-17,8,The Weeknd & Daft Punk,Starboy,1339.307,4,15,-,11,3,8
+Feb-17,9,Maroon 5 & Kendrick Lamar,I Don't Wanna Know,1283.488,6,22,-,28,7,22
+Feb-17,10,Rae Sremmurd & Gucci Mane,Black Beatles,1212.454,3,31,-,33,12,25
+Feb-17,11,The Weeknd & Daft Punk,I Feel It Coming,1192.764,16,14,-,4,12,7
+Feb-17,12,Bruno Mars,24K Magic,1164.988,7,23,-,18,6,15
+Feb-17,13,Machine Gun Kelly & Camila Cabello,Bad Things,1149.443,4,-,-,103,11,22
+Feb-17,14,Drake,Fake Love,1086.227,8,28,-,176,16,36
+Feb-17,15,Ariana Grande & Nicki Minaj,Side To Side,997.821,9,37,-,117,8,39
+Feb-17,16,DJ Snake & Justin Bieber,Let Me Love You,995.141,14,43,-,44,9,32
+Feb-17,17,Alessia Cara,Scars To Your Beautiful,982.205,8,68,-,-,17,17
+Feb-17,18,James Arthur,Say You Won't Let Go,967.834,27,12,-,21,9,12
+Feb-17,19,Starley,Call On Me,954.574,72,6,7,24,40,9
+Feb-17,20,Justin Timberlake,Can't Stop The Feeling,908.716,22,47,-,29,26,29
+Feb-17,21,Rihanna,Love On The Brain,877.638,13,-,-,12,28,-
+Feb-17,22,Big Sean,Bounce Back,872.691,6,67,-,-,18,-
+Feb-17,23,Twenty One Pilots,Heathens,853.145,18,62,-,17,18,-
+Feb-17,24,Shawn Mendes,Mercy,828.811,19,39,-,184,22,-
+Feb-17,25,Hailee Steinfeld & Grey,Starving,825.896,20,33,-,-,20,37
+Feb-17,26,John Legend,Love Me Now,780.565,30,27,-,63,18,44
+Feb-17,27,Sia,Cheap Thrills,769.892,27,54,-,53,26,-
+Feb-17,28,Amine,Caroline,766.444,14,-,-,-,33,-
+Feb-17,29,Adele,Water Under The Bridge,765.826,26,46,-,-,39,35
+Feb-17,30,Jon Bellion,All Time Low,737.754,19,-,-,-,17,16
+Feb-17,31,Sia & Kendrick Lamar,The Greatest,734.994,35,45,-,37,14,41
+Feb-17,32,Shawn Mendes,Treat You Better,727.308,26,60,-,180,22,-
+Feb-17,33,Kaleo,Way Down We Go,720.723,54,-,6,11,60,-
+Feb-17,34,The Chainsmokers & Daya,Don't Let Me Down,668.669,32,57,-,161,30,-
+Feb-17,35,Niall Horan,This Town,657.009,24,-,-,-,27,-
+Feb-17,36,DRAM & Lil Yachty,Broccoli,644.893,20,-,-,-,38,-
+Feb-17,37,Zay Hilfiger & Zayion McCall,Juju On Dat Beat (TZ Anthem),636.163,17,-,-,-,35,-
+Feb-17,38,Shakira & Maluma,Chantaje,610.999,52,-,-,17,55,-
+Feb-17,39,Train,Play That Song,607.765,41,21,-,-,69,11
+Feb-17,40,Kyle & Lil Yachty,I Spy,606.392,27,-,-,-,35,-
+Feb-17,41,Alessia Cara,How Far I'll Go,573.436,56,49,-,-,46,15
+Feb-17,42,Migos,T-Shirt,572.089,19,82,-,175,16,-
+Feb-17,43,Little Big Town,Better Man,547.774,34,-,-,-,56,-
+Feb-17,44,Rag'n'Bone Man,Human,542.554,-,2,-,2,63,17
+Feb-17,45,"Chris Brown, Usher & Gucci Mane",Party,537.469,40,79,-,-,62,-
+Feb-17,46,Bebe Rexha,I Got You,517.781,53,91,-,-,38,-
+Feb-17,47,The Weeknd,Party Monster,502.897,36,89,-,-,33,-
+Feb-17,48,J Cole,Deja Vu,498.087,46,92,-,-,54,-
+Feb-17,49,Luis Fonsi & Daddy Yankee,Despacito,488.678,61,-,-,64,82,-
+Feb-17,50,Gucci Mane & Drake,Both,488.265,44,-,-,-,43,-
+Mar-17,1,Ed Sheeran,Shape Of You,2910.131,1,1,1,1,1,1
+Mar-17,2,Zayn & Taylor Swift,I Don't Wanna Live Forever (Fifty Shades Darker),2035.485,2,7,2,6,2,3
+Mar-17,3,Katy Perry & Skip Marley,Chained To The Rhythm,1728.011,4,5,6,7,3,4
+Mar-17,4,The Chainsmokers,Paris,1707.567,6,8,4,61,3,5
+Mar-17,5,Migos & Lil Uzi Vert,Bad And Boujee,1583.654,2,38,-,110,7,39
+Mar-17,6,Kygo & Selena Gomez,It Ain't Me,1475.069,12,7,2,10,2,4
+Mar-17,7,The Chainsmokers & Coldplay,Something Just Like This,1419.369,5,2,4,11,4,2
+Mar-17,8,The Weeknd & Daft Punk,I Feel It Coming,1380.603,9,19,-,2,11,11
+Mar-17,9,Bruno Mars,That's What I Like,1376.224,3,25,-,87,17,8
+Mar-17,10,Ed Sheeran,Castle On The Hill,1360.487,39,3,3,13,8,2
+Mar-17,11,The Chainsmokers & Halsey,Closer,1288.01,5,34,-,134,4,31
+Mar-17,12,"Clean Bandit, Sean Paul & Anne-Marie",Rockabye,1288.001,9,15,8,7,5,9
+Mar-17,13,Rihanna,Love On The Brain,1179.53,5,-,-,16,22,-
+Mar-17,14,The Weeknd & Daft Punk,Starboy,1080.813,12,28,-,34,6,20
+Mar-17,15,Bruno Mars,24K Magic,1074.153,13,51,-,41,13,32
+Mar-17,16,Big Sean,Bounce Back,1033.298,6,92,-,-,17,-
+Mar-17,17,Justin Timberlake,Can't Stop The Feeling,1013.317,13,52,-,26,23,44
+Mar-17,18,Machine Gun Kelly & Camila Cabello,Bad Things,1013.29,5,-,-,157,11,24
+Mar-17,19,Drake,Fake Love,1005.384,11,43,-,99,21,48
+Mar-17,20,James Arthur,Say You Won't Let Go,975.527,23,22,-,45,9,26
+Mar-17,21,Maroon 5 & Kendrick Lamar,I Don't Wanna Know,952.91,9,42,-,47,10,37
+Mar-17,22,Julia Michaels,Issues,892.101,27,28,-,187,26,5
+Mar-17,23,Alessia Cara,Scars To Your Beautiful,886.362,8,-,-,-,20,22
+Mar-17,24,Maroon 5 & Future,Cold,878.421,20,24,-,37,12,27
+Mar-17,25,Shawn Mendes,Mercy,871.193,15,77,-,-,26,-
+Mar-17,26,Kyle & Lil Yachty,I Spy,866.237,14,87,-,-,21,-
+Mar-17,27,DJ Snake & Justin Bieber,Let Me Love You,833.668,20,69,-,28,15,-
+Mar-17,28,Rae Sremmurd & Gucci Mane,Black Beatles,805.436,14,78,-,90,22,-
+Mar-17,29,Starley,Call On Me,796.371,70,12,10,12,38,13
+Mar-17,30,Marian Hill,Down,791.448,21,-,-,24,52,-
+Mar-17,31,Lady GaGa,Million Reasons,783.304,4,-,-,112,16,47
+Mar-17,32,Sam Hunt,Body Like A Back Road,773.847,17,-,-,-,25,-
+Mar-17,33,Jon Bellion,All Time Low,750.569,24,86,-,-,16,9
+Mar-17,34,Luis Fonsi & Daddy Yankee,Despacito,739.645,52,-,10,6,82,-
+Mar-17,35,Adele,Water Under The Bridge,732.576,30,49,-,-,49,23
+Mar-17,36,Imagine Dragons,Believer,702.487,41,45,-,110,30,43
+Mar-17,37,Ariana Grande & Nicki Minaj,Side To Side,700.627,18,70,-,153,14,-
+Mar-17,38,Twenty One Pilots,Heathens,677.761,29,89,-,40,31,-
+Mar-17,39,Migos,T-Shirt,677.128,26,-,-,-,19,-
+Mar-17,40,Amine,Caroline,664.553,17,-,-,-,43,-
+Mar-17,41,Kodak Black,Tunnel Vision,648.969,6,-,-,-,17,-
+Mar-17,42,Ed Sheeran,Galway Girl,638.273,53,2,5,87,16,7
+Mar-17,43,Post Malone & Quavo,Congratulations,631.984,33,-,-,-,45,-
+Mar-17,44,Train,Play That Song,628.965,59,27,-,-,76,21
+Mar-17,45,Little Big Town,Better Man,575.694,35,-,-,-,56,-
+Mar-17,46,Jon Pardi,Dirt On My Boots,573.667,39,-,-,-,58,-
+Mar-17,47,Rae Sremmurd,Swang,563.885,35,-,-,-,41,-
+Mar-17,48,Jax Jones & RAYE,You Don't Know Me,551.078,-,6,4,11,-,15
+Mar-17,49,"Calvin Harris, Frank Ocean & Migos",Slide,550.536,34,10,-,15,16,12
+Mar-17,50,Future,Mask Off,538.46,32,52,-,29,28,-
+Apr-17,1,Ed Sheeran,Shape Of You,2791.072,1,1,1,1,1,1
+Apr-17,2,The Chainsmokers & Coldplay,Something Just Like This,1981.041,3,5,4,13,3,2
+Apr-17,3,Bruno Mars,That's What I Like,1727.296,2,12,-,51,3,5
+Apr-17,4,Kygo & Selena Gomez,It Ain't Me,1644.468,11,7,3,9,2,5
+Apr-17,5,The Weeknd & Daft Punk,I Feel It Coming,1471.529,4,47,-,2,10,22
+Apr-17,6,Katy Perry & Skip Marley,Chained To The Rhythm,1391,13,11,8,5,7,13
+Apr-17,7,Zayn & Taylor Swift,I Don't Wanna Live Forever (Fifty Shades Darker),1341.418,3,53,-,19,6,16
+Apr-17,8,The Chainsmokers,Paris,1282.183,9,22,-,96,5,15
+Apr-17,9,"Clean Bandit, Sean Paul & Anne-Marie",Rockabye,1274.343,10,44,-,15,4,31
+Apr-17,10,Drake,Passionfruit,1193.26,8,3,-,13,2,4
+Apr-17,11,Migos & Lil Uzi Vert,Bad And Boujee,1175.915,3,88,-,126,17,-
+Apr-17,12,Kyle & Lil Yachty,I Spy,1157.839,4,42,-,-,14,-
+Apr-17,13,Luis Fonsi & Daddy Yankee,Despacito,1156.642,44,22,1,1,56,-
+Apr-17,14,Zedd & Alessia Cara,Stay,1125.196,14,8,-,117,9,3
+Apr-17,15,Future,Mask Off,1117.627,7,24,-,16,9,20
+Apr-17,16,Julia Michaels,Issues,1043.442,12,10,-,105,21,9
+Apr-17,17,Kodak Black,Tunnel Vision,1033.897,6,-,-,-,21,-
+Apr-17,18,Ed Sheeran,Galway Girl,997.917,63,2,6,115,18,2
+Apr-17,19,Maroon 5 & Future,Cold,983.287,16,39,-,65,17,28
+Apr-17,20,Rihanna,Love On The Brain,970.406,7,-,-,18,26,-
+Apr-17,21,James Arthur,Say You Won't Let Go,964.223,16,64,-,82,11,33
+Apr-17,22,The Chainsmokers & Halsey,Closer,950.117,13,60,-,191,11,41
+Apr-17,23,Sam Hunt,Body Like A Back Road,906.952,6,-,-,-,18,-
+Apr-17,24,"Jason Derulo, Nicki Minaj & Ty Dolla Sign",Swalla,901.459,42,6,4,55,24,25
+Apr-17,25,Ed Sheeran,Castle On The Hill,893.388,52,3,-,15,9,2
+Apr-17,26,"Calvin Harris, Frank Ocean & Migos",Slide,879.658,36,12,-,37,23,11
+Apr-17,27,Justin Timberlake,Can't Stop The Feeling,843.727,28,68,-,49,31,47
+Apr-17,28,Bruno Mars,24K Magic,836.962,22,75,-,53,28,-
+Apr-17,29,Drake,Fake Love,833.656,15,43,-,149,24,47
+Apr-17,30,The Weeknd & Daft Punk,Starboy,826.99,30,61,-,48,13,39
+Apr-17,31,Big Sean,Bounce Back,815.613,11,-,-,-,36,-
+Apr-17,32,Jax Jones & RAYE,You Don't Know Me,768.224,-,14,3,6,73,12
+Apr-17,33,Lorde,Green Light,751.646,39,20,-,175,15,4
+Apr-17,34,Marian Hill,Down,737.301,23,-,-,14,42,-
+Apr-17,35,Imagine Dragons,Believer,729.471,42,73,-,73,24,42
+Apr-17,36,"Drake, Quavo & Travi$ Scott",Portland,718.308,9,27,-,-,6,-
+Apr-17,37,Migos,T-Shirt,691.904,25,-,-,-,40,-
+Apr-17,38,Shawn Mendes,Mercy,675.657,20,-,-,-,40,-
+Apr-17,39,Khalid,Location,674.174,20,-,-,-,48,-
+Apr-17,40,Post Malone & Quavo,Congratulations,671.821,19,-,-,-,29,-
+Apr-17,41,Kendrick Lamar,Humble,666.925,2,6,-,21,2,2
+Apr-17,42,Starley,Call On Me,661.691,65,28,-,25,39,23
+Apr-17,43,Alessia Cara,Scars To Your Beautiful,632.806,25,-,-,-,42,-
+Apr-17,44,Rae Sremmurd,Swang,617.854,29,-,-,-,44,-
+Apr-17,45,Martin Garrix & Dua Lipa,Scared To Be Lonely,595.521,80,18,-,47,45,14
+Apr-17,46,Maroon 5 & Kendrick Lamar,I Don't Wanna Know,594.176,36,-,-,54,44,-
+Apr-17,47,Ayo & Teo,Rolex,593.295,32,-,-,-,33,-
+Apr-17,48,Drake,Blem,576.203,38,10,-,-,8,-
+Apr-17,49,Jon Pardi,Dirt On My Boots,564.006,37,-,-,-,87,-
+Apr-17,50,Clean Bandit & Zara Larsson,Symphony,555.267,-,1,9,66,36,6
+May-17,1,Ed Sheeran,Shape Of You,2444.203,1,2,2,2,1,1
+May-17,2,Luis Fonsi & Daddy Yankee,Despacito,2346.339,1,1,1,1,1,1
+May-17,3,The Chainsmokers & Coldplay,Something Just Like This,1901.145,5,9,5,8,3,4
+May-17,4,Bruno Mars,That's What I Like,1810.213,1,12,-,51,4,8
+May-17,5,Kendrick Lamar,Humble,1713.533,1,10,-,33,2,2
+May-17,6,Kygo & Selena Gomez,It Ain't Me,1601.777,10,14,8,5,4,10
+May-17,7,Future,Mask Off,1467.357,5,22,-,18,8,19
+May-17,8,"Jason Derulo, Nicki Minaj & Ty Dolla Sign",Swalla,1339.169,41,6,4,12,20,17
+May-17,9,Harry Styles,Sign Of The Times,1331.689,4,4,-,9,6,4
+May-17,10,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil' Wayne",I'm The One,1313.491,1,1,4,11,1,1
+May-17,11,Zedd & Alessia Cara,Stay,1299.038,7,11,-,117,9,7
+May-17,12,Julia Michaels,Issues,1228.329,12,13,-,54,17,13
+May-17,13,Kyle & Lil Yachty,I Spy,1217.784,6,33,-,-,14,-
+May-17,14,Drake,Passionfruit,1169.041,18,5,-,27,11,11
+May-17,15,Lil Uzi Vert,XO TOUR Llif3,1151.464,8,50,-,-,11,-
+May-17,16,"Clean Bandit, Sean Paul & Anne-Marie",Rockabye,1112.723,13,57,-,25,7,41
+May-17,17,Kendrick Lamar,Dna.,1088.463,4,33,-,44,3,16
+May-17,18,James Arthur,Say You Won't Let Go,1060.638,13,70,-,136,12,45
+May-17,19,The Weeknd & Daft Punk,I Feel It Coming,1034.21,17,64,-,3,18,40
+May-17,20,The Chainsmokers,Paris,992.465,10,40,-,199,7,22
+May-17,21,"Calvin Harris, Frank Ocean & Migos",Slide,955.721,28,21,-,33,20,14
+May-17,22,Post Malone & Quavo,Congratulations,935.056,12,59,-,-,25,37
+May-17,23,Maroon 5 & Future,Cold,929.123,21,49,-,41,22,39
+May-17,24,Sam Hunt,Body Like A Back Road,927.061,9,-,-,-,20,-
+May-17,25,Katy Perry & Skip Marley,Chained To The Rhythm,880.888,27,36,-,6,13,33
+May-17,26,French Montana & Swae Lee,Unforgettable,850.667,29,6,-,78,8,-
+May-17,27,Shawn Mendes,There's Nothing Holdin' Me Back,843.755,40,4,7,126,17,6
+May-17,28,The Chainsmokers & Halsey,Closer,841.549,23,73,-,-,16,48
+May-17,29,Ed Sheeran,Castle On The Hill,837.775,38,18,-,32,26,12
+May-17,30,Imagine Dragons,Believer,825.592,20,72,-,31,25,-
+May-17,31,Khalid,Location,807.109,16,-,-,-,48,-
+May-17,32,Zayn & Taylor Swift,I Don't Wanna Live Forever (Fifty Shades Darker),799.268,26,80,-,26,17,38
+May-17,33,Kodak Black,Tunnel Vision,785.426,15,-,-,-,31,-
+May-17,34,Ed Sheeran,Galway Girl,779.187,94,3,7,42,19,2
+May-17,35,Migos & Lil Uzi Vert,Bad And Boujee,747.06,18,-,-,158,43,-
+May-17,36,Bruno Mars,24K Magic,721.49,30,75,-,55,41,-
+May-17,37,Lady GaGa,The Cure,718.746,39,19,-,47,33,10
+May-17,38,Migos,T-Shirt,708.938,24,-,-,-,40,-
+May-17,39,Rihanna,Love On The Brain,699.037,24,-,-,35,45,-
+May-17,40,Rae Sremmurd,Swang,685.987,26,-,-,-,41,-
+May-17,41,Justin Timberlake,Can't Stop The Feeling,685.021,33,71,-,64,35,-
+May-17,42,Clean Bandit & Zara Larsson,Symphony,664.649,-,1,10,31,36,4
+May-17,43,Kendrick Lamar & Rihanna,Loyalty.,654.556,14,48,-,170,12,20
+May-17,44,Martin Garrix & Dua Lipa,Scared To Be Lonely,650.216,76,30,-,72,46,19
+May-17,45,Charlie Puth,Attention,639.728,53,9,-,7,29,30
+May-17,46,Halsey,Now Or Never,638.156,32,90,-,-,42,23
+May-17,47,Kendrick Lamar & Zacari,Love.,634.892,18,63,-,-,22,29
+May-17,48,Ayo & Teo,Rolex,629.443,30,-,-,-,38,-
+May-17,49,Brett Young,In Case You Didn't Know,628.479,24,-,-,-,59,-
+May-17,50,Big Sean,Bounce Back,618.512,25,-,-,-,-,-
+Jun-17,1,Luis Fonsi & Daddy Yankee,Despacito,2815.603,1,1,1,1,1,1
+Jun-17,2,Ed Sheeran,Shape Of You,2040.89,4,7,3,2,2,5
+Jun-17,3,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil' Wayne",I'm The One,1979.503,3,2,4,14,3,2
+Jun-17,4,Bruno Mars,That's What I Like,1673.551,2,21,-,42,4,15
+Jun-17,5,The Chainsmokers & Coldplay,Something Just Like This,1500.222,6,16,10,7,4,10
+Jun-17,6,Kendrick Lamar,Humble,1437.776,4,28,-,75,6,7
+Jun-17,7,Future,Mask Off,1397.439,6,22,-,18,5,13
+Jun-17,8,Shawn Mendes,There's Nothing Holdin' Me Back,1393.541,18,4,5,58,12,4
+Jun-17,9,Kygo & Selena Gomez,It Ain't Me,1280.038,10,25,-,5,7,13
+Jun-17,10,Zedd & Alessia Cara,Stay,1263.633,7,27,-,134,10,11
+Jun-17,11,French Montana & Swae Lee,Unforgettable,1262.166,17,3,8,30,6,45
+Jun-17,12,"Jason Derulo, Nicki Minaj & Ty Dolla Sign",Swalla,1237.664,29,8,6,5,15,20
+Jun-17,13,Julia Michaels,Issues,1206.355,11,31,-,27,17,18
+Jun-17,14,Lil Uzi Vert,XO TOUR Llif3,1175.716,7,39,-,-,10,37
+Jun-17,15,Miley Cyrus,Malibu,1142.957,10,15,-,66,4,3
+Jun-17,16,Harry Styles,Sign Of The Times,1139.782,17,10,-,9,11,4
+Jun-17,17,Charlie Puth,Attention,1098.424,31,9,10,5,18,12
+Jun-17,18,Post Malone & Quavo,Congratulations,1059.929,10,51,-,-,17,32
+Jun-17,19,Imagine Dragons,Believer,1048.765,13,76,-,19,14,-
+Jun-17,20,James Arthur,Say You Won't Let Go,1018.864,11,73,-,185,14,48
+Jun-17,21,Kyle & Lil Yachty,I Spy,977.283,10,39,-,-,22,39
+Jun-17,22,Drake,Passionfruit,943.605,19,29,-,46,16,22
+Jun-17,23,"Calvin Harris, Frank Ocean & Migos",Slide,939.559,25,35,-,19,21,21
+Jun-17,24,Ed Sheeran,Castle On The Hill,911.766,23,25,-,37,28,18
+Jun-17,25,Niall Horan,Slow Hands,855.262,28,7,-,-,22,3
+Jun-17,26,Sam Hunt,Body Like A Back Road,850.895,14,-,-,-,23,-
+Jun-17,27,Kendrick Lamar,Dna.,819.58,16,65,-,-,15,34
+Jun-17,28,Childish Gambino,Redbone,819.266,16,56,-,-,41,36
+Jun-17,29,Imagine Dragons,Thunder,814.701,81,36,3,183,45,20
+Jun-17,30,"Clean Bandit, Sean Paul & Anne-Marie",Rockabye,791.781,22,60,-,46,13,-
+Jun-17,31,Halsey,Now Or Never,769.1,21,89,-,-,32,16
+Jun-17,32,Brett Young,In Case You Didn't Know,750.908,19,-,-,-,50,-
+Jun-17,33,Khalid,Location,745.784,17,-,-,-,48,-
+Jun-17,34,Liam Payne & Quavo,Strip That Down,727.392,42,3,-,32,24,3
+Jun-17,35,The Chainsmokers & Halsey,Closer,715.999,25,86,-,-,23,-
+Jun-17,36,Selena Gomez,Bad Liar,715.762,27,33,-,36,15,13
+Jun-17,37,Lady GaGa,The Cure,692.706,46,20,-,-,33,14
+Jun-17,38,Ayo & Teo,Rolex,686.484,20,-,-,-,43,-
+Jun-17,39,Migos & Lil Uzi Vert,Bad And Boujee,659.434,21,-,-,-,-,-
+Jun-17,40,Bruno Mars,24K Magic,634.845,35,90,-,55,-,-
+Jun-17,41,Kodak Black,Tunnel Vision,630.651,23,-,-,-,46,-
+Jun-17,42,Katy Perry & Migos,Bon appetit,624.302,59,37,-,9,14,35
+Jun-17,43,Maroon 5 & Future,Cold,610.534,33,-,-,53,30,-
+Jun-17,44,Migos,T-Shirt,603.745,26,-,-,-,42,-
+Jun-17,45,Rae Sremmurd,Swang,602.215,27,-,-,-,41,-
+Jun-17,46,Cheat Codes & Demi Lovato,No Promises,599.041,74,18,-,-,53,17
+Jun-17,47,Luke Combs,Hurricane,590.815,31,-,-,-,62,-
+Jun-17,48,Travi$ Scott,Goosebumps,580.45,33,-,-,-,-,-
+Jun-17,49,Rag'n'Bone Man,Human,568.752,74,41,-,14,61,-
+Jun-17,50,Martin Garrix & Dua Lipa,Scared To Be Lonely,555.071,76,47,-,118,49,24
+Jul-17,1,Luis Fonsi & Daddy Yankee,Despacito,2901.783,1,1,1,1,1,1
+Jul-17,2,"DJ Khaled, Rihanna & Bryson Tiller",Wild Thoughts,1957.196,2,1,4,3,2,2
+Jul-17,3,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil' Wayne",I'm The One,1844.6,2,7,-,24,3,4
+Jul-17,4,Ed Sheeran,Shape Of You,1777.526,4,11,9,2,2,8
+Jul-17,5,French Montana & Swae Lee,Unforgettable,1649.288,9,3,7,18,5,14
+Jul-17,6,Bruno Mars,That's What I Like,1511.068,3,34,-,87,7,28
+Jul-17,7,David Guetta & Justin Bieber,2U,1460.561,16,8,5,20,4,2
+Jul-17,8,Charlie Puth,Attention,1437.653,13,12,9,4,12,10
+Jul-17,9,The Chainsmokers & Coldplay,Something Just Like This,1401.987,7,26,-,6,6,14
+Jul-17,10,Shawn Mendes,There's Nothing Holdin' Me Back,1375.486,8,13,7,17,6,6
+Jul-17,11,Kendrick Lamar,Humble,1339.573,5,38,-,103,9,10
+Jul-17,12,Imagine Dragons,Believer,1303.736,6,42,-,7,7,-
+Jul-17,13,Future,Mask Off,1257.619,6,28,-,44,10,26
+Jul-17,14,Post Malone & Quavo,Congratulations,1213.79,8,34,-,-,14,31
+Jul-17,15,Zedd & Alessia Cara,Stay,1187.957,8,37,-,73,13,22
+Jul-17,16,Imagine Dragons,Thunder,1117.111,54,20,2,71,34,4
+Jul-17,17,Lil Uzi Vert,XO TOUR Llif3,1098.673,10,29,-,-,15,38
+Jul-17,18,Kygo & Selena Gomez,It Ain't Me,1097.597,17,39,-,20,8,29
+Jul-17,19,Julia Michaels,Issues,1096.92,13,63,-,11,25,31
+Jul-17,20,Liam Payne & Quavo,Strip That Down,1070.358,28,4,10,193,18,2
+Jul-17,21,Miley Cyrus,Malibu,1065.931,22,14,-,85,11,7
+Jul-17,22,Niall Horan,Slow Hands,1044.179,19,14,-,-,10,2
+Jul-17,23,Selena Gomez,Bad Liar,1012.69,20,21,-,107,11,13
+Jul-17,24,"Jason Derulo, Nicki Minaj & Ty Dolla Sign",Swalla,1001.754,30,17,-,11,19,30
+Jul-17,25,Childish Gambino,Redbone,998.211,14,51,-,-,30,28
+Jul-17,26,Sam Hunt,Body Like A Back Road,994.209,8,-,-,-,23,17
+Jul-17,27,Ed Sheeran,Castle On The Hill,982.96,21,30,-,76,28,25
+Jul-17,28,"Calvin Harris, Pharrell Williams, Katy Perry & Big Sean",Feels,973.888,26,4,-,2,9,5
+Jul-17,29,James Arthur,Say You Won't Let Go,866.003,12,87,-,-,24,-
+Jul-17,30,Halsey,Now Or Never,853.089,17,80,-,-,34,21
+Jul-17,31,"Calvin Harris, Frank Ocean & Migos",Slide,833.948,32,21,-,35,24,35
+Jul-17,32,Kyle & Lil Yachty,I Spy,770.782,22,62,-,-,34,43
+Jul-17,33,Camila Cabello,Crying In The Club,753.595,50,12,-,-,31,40
+Jul-17,34,Jonas Blue & William Singe,Mama,743.641,-,4,5,36,45,7
+Jul-17,35,Harry Styles,Sign Of The Times,742.449,29,43,-,12,21,15
+Jul-17,36,Khalid,Location,723.955,24,-,-,-,48,41
+Jul-17,37,Drake,Passionfruit,686.246,45,42,-,86,26,39
+Jul-17,38,Ayo & Teo,Rolex,673.575,26,-,-,-,45,-
+Jul-17,39,Playboi Carti,Magnolia,666.563,29,-,-,-,54,-
+Jul-17,40,The Chainsmokers & Halsey,Closer,658.368,33,91,-,-,34,-
+Jul-17,41,Migos & Gucci Mane,Slippery,647.225,29,-,-,-,46,-
+Jul-17,42,Brett Young,In Case You Didn't Know,640.859,31,-,-,-,51,-
+Jul-17,43,Bruno Mars,24K Magic,608.087,39,-,-,77,-,-
+Jul-17,44,Kendrick Lamar,Dna.,606.752,32,-,-,-,39,50
+Jul-17,45,Cheat Codes & Demi Lovato,No Promises,600.374,77,27,-,-,59,18
+Jul-17,46,YFN Lucci & PnB Rock,Everyday We Lit,594.793,35,-,-,-,-,-
+Jul-17,47,Migos & Lil Uzi Vert,Bad And Boujee,590.199,35,-,-,-,-,-
+Jul-17,48,Drake,Signs,588.203,36,14,-,31,12,32
+Jul-17,49,A Boogie Wit da Hoodie & Kodak Black,Drowning,584.387,39,-,-,-,55,-
+Jul-17,50,Lady GaGa,The Cure,572.901,46,67,-,-,44,24
+Aug-17,1,Luis Fonsi & Daddy Yankee,Despacito,2818.794,1,1,1,1,1,1
+Aug-17,2,"DJ Khaled, Rihanna & Bryson Tiller",Wild Thoughts,2232.6,2,2,7,4,2,3
+Aug-17,3,French Montana & Swae Lee,Unforgettable,1976.391,3,2,6,14,3,7
+Aug-17,4,"Calvin Harris, Pharrell Williams, Katy Perry & Big Sean",Feels,1581.206,21,1,9,2,5,3
+Aug-17,5,Ed Sheeran,Shape Of You,1525.72,5,23,-,3,3,21
+Aug-17,6,Charlie Puth,Attention,1492.35,5,30,-,3,9,10
+Aug-17,7,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil' Wayne",I'm The One,1480.967,3,23,-,46,3,8
+Aug-17,8,Shawn Mendes,There's Nothing Holdin' Me Back,1457.611,6,22,-,17,6,9
+Aug-17,9,J Balvin & Willy William,Mi gente,1400.106,23,8,3,11,17,31
+Aug-17,10,Imagine Dragons,Believer,1387.559,4,56,-,8,7,45
+Aug-17,11,Bruno Mars,That's What I Like,1348.759,3,73,-,145,14,-
+Aug-17,12,The Chainsmokers & Coldplay,Something Just Like This,1226.757,15,36,-,10,8,25
+Aug-17,13,Imagine Dragons,Thunder,1154.9,53,54,3,37,27,2
+Aug-17,14,Post Malone & Quavo,Congratulations,1139.999,11,28,-,187,16,30
+Aug-17,15,David Guetta & Justin Bieber,2U,1133.052,29,11,10,5,15,12
+Aug-17,16,Kendrick Lamar,Humble,1112.071,6,65,-,145,17,19
+Aug-17,17,Liam Payne & Quavo,Strip That Down,1094.574,15,17,-,193,11,2
+Aug-17,18,Niall Horan,Slow Hands,1068.439,15,28,-,-,9,6
+Aug-17,19,Lil Uzi Vert,XO TOUR Llif3,1037.653,16,27,-,-,15,40
+Aug-17,20,Sam Hunt,Body Like A Back Road,1036.162,9,-,-,-,17,9
+Aug-17,21,Childish Gambino,Redbone,977.434,12,95,-,144,30,27
+Aug-17,22,Zedd & Alessia Cara,Stay,960.084,12,-,-,38,23,36
+Aug-17,23,Demi Lovato,Sorry Not Sorry,952.873,23,14,-,160,19,21
+Aug-17,24,Future,Mask Off,945.653,18,61,-,64,25,48
+Aug-17,25,Kygo & Selena Gomez,It Ain't Me,905.003,21,63,-,29,13,43
+Aug-17,26,Ed Sheeran,Castle On The Hill,889.446,22,49,-,81,24,-
+Aug-17,27,Ke$ha,Praying,859.674,24,26,-,-,11,6
+Aug-17,28,21 Savage,Bank Account,854.972,12,63,-,-,16,-
+Aug-17,29,Miley Cyrus,Malibu,838.743,31,21,-,105,20,20
+Aug-17,30,Julia Michaels,Issues,809.802,20,-,-,7,36,-
+Aug-17,31,Halsey,Now Or Never,809.412,17,-,-,-,37,38
+Aug-17,32,Selena Gomez & Gucci Mane,Fetish,775.359,27,57,-,97,10,23
+Aug-17,33,Cardi B,Bodak Yellow (Money Moves),748.589,8,79,-,-,42,-
+Aug-17,34,James Arthur,Say You Won't Let Go,745.151,20,-,-,-,32,-
+Aug-17,35,Jonas Blue & William Singe,Mama,723.493,-,5,6,16,45,7
+Aug-17,36,Khalid,Location,714.049,24,-,-,-,50,39
+Aug-17,37,Selena Gomez,Bad Liar,705.147,27,34,-,188,20,18
+Aug-17,38,Bruno Mars,Versace On The Floor,687.49,43,59,-,100,67,-
+Aug-17,39,"Portugal, The Man",Feel It Still,685.335,30,42,-,50,51,-
+Aug-17,40,Playboi Carti,Magnolia,650.699,29,-,-,-,52,-
+Aug-17,41,Cheat Codes & Demi Lovato,No Promises,634.806,42,58,-,-,72,29
+Aug-17,42,Migos & Gucci Mane,Slippery,633.462,31,-,-,-,46,-
+Aug-17,43,Yo Gotti & Nicki Minaj,Rake It Up,621.265,22,-,-,-,-,-
+Aug-17,44,Hailee Steinfeld,Most Girls,612.645,58,34,-,-,52,18
+Aug-17,45,"Jason Derulo, Nicki Minaj & Ty Dolla Sign",Swalla,608.282,65,39,-,22,31,39
+Aug-17,46,YFN Lucci & PnB Rock,Everyday We Lit,603.56,33,-,-,-,-,-
+Aug-17,47,Macklemore & Skylar Grey,Glorious,599.393,71,36,-,90,27,2
+Aug-17,48,Kendrick Lamar & Rihanna,Loyalty.,599.011,31,87,-,-,42,-
+Aug-17,49,Maluma,Felices los 4,592.35,48,-,-,71,87,-
+Aug-17,50,A Boogie Wit da Hoodie & Kodak Black,Drowning,585.843,38,-,-,-,67,-
+Sep-17,1,Luis Fonsi & Daddy Yankee,Despacito,2254.871,1,7,2,1,1,3
+Sep-17,2,French Montana & Swae Lee,Unforgettable,1751.557,3,16,7,9,3,7
+Sep-17,3,Taylor Swift,Look What You Made Me Do,1727.042,1,1,3,4,1,1
+Sep-17,4,"DJ Khaled, Rihanna & Bryson Tiller",Wild Thoughts,1630.151,2,17,-,16,2,9
+Sep-17,5,Pink,What About Us,1510.965,28,3,3,5,10,1
+Sep-17,6,Charlie Puth,Attention,1472.776,5,40,-,7,6,19
+Sep-17,7,Cardi B,Bodak Yellow (Money Moves),1429.305,2,48,-,82,15,-
+Sep-17,8,Shawn Mendes,There's Nothing Holdin' Me Back,1320.592,6,34,-,35,7,17
+Sep-17,9,Ed Sheeran,Shape Of You,1291.185,9,25,-,9,4,24
+Sep-17,10,"Calvin Harris, Pharrell Williams, Katy Perry & Big Sean",Feels,1272.738,20,3,-,1,5,5
+Sep-17,11,Imagine Dragons,Believer,1218.412,4,-,-,16,7,45
+Sep-17,12,Liam Payne & Quavo,Strip That Down,1126.499,10,27,-,103,11,7
+Sep-17,13,Demi Lovato,Sorry Not Sorry,1077.653,13,9,-,160,19,8
+Sep-17,14,Imagine Dragons,Thunder,1070.462,40,75,5,20,27,4
+Sep-17,15,Niall Horan,Slow Hands,1033.805,11,45,-,-,8,12
+Sep-17,16,Dua Lipa,New Rules,1024.676,56,1,10,133,22,4
+Sep-17,17,21 Savage,Bank Account,1012.651,12,55,-,-,16,-
+Sep-17,18,The Chainsmokers & Coldplay,Something Just Like This,1006.047,19,47,-,22,12,28
+Sep-17,19,"Logic, Alessia Cara & Khalid",1-800-273-8255,995.181,3,16,-,-,7,-
+Sep-17,20,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil' Wayne",I'm The One,980.278,10,39,-,82,6,23
+Sep-17,21,"Portugal, The Man",Feel It Still,979.168,14,42,-,3,28,35
+Sep-17,22,Post Malone & Quavo,Congratulations,963.66,14,31,-,-,22,32
+Sep-17,23,Lil Uzi Vert,XO TOUR Llif3,960.4,16,25,-,-,15,42
+Sep-17,24,Justin Bieber & BloodPop,Friends,951.696,20,2,-,8,4,2
+Sep-17,25,Kendrick Lamar,Humble,934.669,14,78,-,137,20,25
+Sep-17,26,Bruno Mars,That's What I Like,910.354,7,-,-,186,19,-
+Sep-17,27,Sam Hunt,Body Like A Back Road,890.299,10,-,-,-,16,10
+Sep-17,28,J Balvin & Willy William,Mi gente,852.15,23,5,3,10,17,27
+Sep-17,29,Yo Gotti & Nicki Minaj,Rake It Up,847.773,10,-,-,-,52,-
+Sep-17,30,Ke$ha,Praying,828.448,22,26,-,-,15,6
+Sep-17,31,Childish Gambino,Redbone,783.694,13,-,-,169,31,27
+Sep-17,32,Macklemore & Skylar Grey,Glorious,729.599,65,23,-,34,36,2
+Sep-17,33,Zedd & Alessia Cara,Stay,721.498,20,-,-,57,28,46
+Sep-17,34,J Balvin & Willy William & Beyonce,Mi gente,717.679,19,-,-,-,13,-
+Sep-17,35,Khalid,Young Dumb & Broke,716.871,26,60,-,-,33,20
+Sep-17,36,Future,Mask Off,694.145,25,89,-,86,29,-
+Sep-17,37,Marshmello & Khalid,Silence,691.83,42,29,-,-,14,27
+Sep-17,38,Kendrick Lamar & Rihanna,Loyalty.,677.741,31,90,-,-,48,-
+Sep-17,39,Khalid,Location,674.933,26,-,-,-,-,41
+Sep-17,40,James Arthur,Say You Won't Let Go,610.458,27,-,-,-,44,-
+Sep-17,41,Bruno Mars,Versace On The Floor,606.87,33,73,-,90,43,-
+Sep-17,42,Cheat Codes & Demi Lovato,No Promises,602.483,39,77,-,-,70,35
+Sep-17,43,SZA & Travi$ Scott,Love Galore,599.519,33,-,-,-,89,-
+Sep-17,44,Dustin Lynch,Small Town Boy,579.862,36,-,-,-,69,-
+Sep-17,45,Camila Cabello & Young Thug,Havana,574.036,64,7,-,101,34,36
+Sep-17,46,Travi$ Scott,Butterfly Effect,572.454,55,65,-,-,40,-
+Sep-17,47,Kane Brown & Lauren Alaina,What Ifs,565.552,32,-,-,-,70,-
+Sep-17,48,Selena Gomez & Gucci Mane,Fetish,564.423,47,68,-,141,25,39
+Sep-17,49,Taylor Swift,...Ready For It?,547.636,4,7,-,20,11,3
+Sep-17,50,Maluma,Felices los 4,533.128,53,-,-,61,-,-
+Oct-17,1,Post Malone & 21 Savage,Rockstar,2217.349,1,1,2,8,1,1
+Oct-17,2,Cardi B,Bodak Yellow (Money Moves),1799.781,1,24,-,70,6,39
+Oct-17,3,Taylor Swift,Look What You Made Me Do,1707.733,1,9,-,76,1,3
+Oct-17,4,Sam Smith,Too Good At Goodbyes,1517.373,5,1,-,28,2,1
+Oct-17,5,Luis Fonsi & Daddy Yankee,Despacito,1511.081,4,25,-,8,2,16
+Oct-17,6,"Logic, Alessia Cara & Khalid",1-800-273-8255,1501.844,3,9,-,-,6,-
+Oct-17,7,Pink,What About Us,1478.893,23,6,4,2,8,4
+Oct-17,8,French Montana & Swae Lee,Unforgettable,1452.077,6,24,8,17,4,13
+Oct-17,9,"Portugal, The Man",Feel It Still,1407.775,5,39,-,3,10,6
+Oct-17,10,Zayn & Sia,Dusk Till Dawn,1340.443,44,6,3,3,5,6
+Oct-17,11,Camila Cabello & Young Thug,Havana,1316.019,26,2,4,22,13,2
+Oct-17,12,Charlie Puth,Attention,1245.84,8,69,-,14,8,36
+Oct-17,13,Demi Lovato,Sorry Not Sorry,1189.957,8,17,-,145,18,10
+Oct-17,14,Ed Sheeran,Shape Of You,1145.456,17,35,-,18,11,29
+Oct-17,15,Maroon 5 & SZA,What Lovers Do,1139.617,17,12,-,39,9,15
+Oct-17,16,Imagine Dragons,Thunder,1135.506,7,77,9,20,25,5
+Oct-17,17,"DJ Khaled, Rihanna & Bryson Tiller",Wild Thoughts,1129.384,6,42,-,64,6,29
+Oct-17,18,Imagine Dragons,Believer,1110.865,7,96,-,27,19,-
+Oct-17,19,Shawn Mendes,There's Nothing Holdin' Me Back,1075.141,10,59,-,77,13,33
+Oct-17,20,Dua Lipa,New Rules,1067.173,42,3,10,45,19,2
+Oct-17,21,Liam Payne & Quavo,Strip That Down,1061.758,12,61,-,164,17,22
+Oct-17,22,Niall Horan,Slow Hands,1049.153,11,50,-,186,10,25
+Oct-17,23,Ed Sheeran,Perfect,1011.022,22,7,5,4,12,3
+Oct-17,24,J Balvin & Willy William & Beyonce,Mi gente,1003.735,3,-,-,-,2,-
+Oct-17,25,21 Savage,Bank Account,987.195,14,41,-,-,20,-
+Oct-17,26,Justin Bieber & BloodPop,Friends,965.409,34,11,-,51,16,11
+Oct-17,27,Yo Gotti & Nicki Minaj,Rake It Up,942.425,8,-,-,-,49,-
+Oct-17,28,Khalid,Young Dumb & Broke,931.345,25,18,-,145,28,7
+Oct-17,29,"Calvin Harris, Pharrell Williams, Katy Perry & Big Sean",Feels,906.486,37,33,-,2,9,18
+Oct-17,30,Marshmello & Khalid,Silence,897.626,53,3,7,-,14,17
+Oct-17,31,The Chainsmokers & Coldplay,Something Just Like This,875.321,27,78,-,42,26,50
+Oct-17,32,Lil Uzi Vert,XO TOUR Llif3,874.495,20,32,-,-,20,-
+Oct-17,33,Post Malone & Quavo,Congratulations,858.133,33,26,-,112,31,35
+Oct-17,34,Macklemore & Skylar Grey,Glorious,837.347,49,23,-,20,34,2
+Oct-17,35,Kendrick Lamar,Humble,815.705,22,87,-,189,31,30
+Oct-17,36,Taylor Swift,...Ready For It?,775.346,21,27,-,-,21,17
+Oct-17,37,Bruno Mars,That's What I Like,760.914,18,-,-,-,40,-
+Oct-17,38,Ke$ha,Praying,756.036,24,-,-,-,29,15
+Oct-17,39,Gucci Mane & Migos,I Get The Bag,745.352,22,-,-,-,30,-
+Oct-17,40,Sam Hunt,Body Like A Back Road,744.586,22,-,-,-,36,17
+Oct-17,41,J Balvin & Willy William,Mi gente,722.223,-,8,5,10,-,11
+Oct-17,42,Kane Brown & Lauren Alaina,What Ifs,666.133,27,-,-,-,52,-
+Oct-17,43,XXXTentacion,Jocelyn Flores,642.628,42,40,-,-,27,-
+Oct-17,44,SZA & Travi$ Scott,Love Galore,632.037,32,-,-,-,84,-
+Oct-17,45,Khalid,Location,621.625,28,-,-,-,-,-
+Oct-17,46,Travi$ Scott,Butterfly Effect,605.999,52,66,-,-,45,-
+Oct-17,47,Chris Brown,Questions,586.954,84,15,-,-,53,-
+Oct-17,48,James Arthur,Say You Won't Let Go,583.356,34,-,-,-,-,-
+Oct-17,49,Dustin Lynch,Small Town Boy,582.552,37,-,-,-,69,-
+Oct-17,50,Luke Combs,When It Rains It Pours,574.331,39,-,-,-,54,-
+Nov-17,1,Post Malone & 21 Savage,Rockstar,2530.653,1,1,2,8,1,1
+Nov-17,2,Camila Cabello & Young Thug,Havana,2176.255,2,1,2,3,1,1
+Nov-17,3,"Portugal, The Man",Feel It Still,1635.742,4,39,7,5,9,5
+Nov-17,4,Sam Smith,Too Good At Goodbyes,1577.721,4,3,-,6,2,3
+Nov-17,5,Cardi B,Bodak Yellow (Money Moves),1510.463,2,31,-,104,6,33
+Nov-17,6,"Logic, Alessia Cara & Khalid",1-800-273-8255,1385.558,3,13,-,-,9,-
+Nov-17,7,Maroon 5 & SZA,What Lovers Do,1314.19,9,12,-,17,6,7
+Nov-17,8,Imagine Dragons,Thunder,1273.036,5,-,-,26,13,14
+Nov-17,9,Zayn & Sia,Dusk Till Dawn,1258.881,69,5,3,2,16,7
+Nov-17,10,Pink,What About Us,1246.701,13,21,8,2,6,5
+Nov-17,11,Demi Lovato,Sorry Not Sorry,1190.575,6,46,-,-,18,18
+Nov-17,12,Marshmello & Khalid,Silence,1183.397,44,3,6,151,12,7
+Nov-17,13,French Montana & Swae Lee,Unforgettable,1164.833,9,33,-,41,5,19
+Nov-17,14,Dua Lipa,New Rules,1158.61,21,16,9,52,8,7
+Nov-17,15,Luis Fonsi & Daddy Yankee,Despacito,1124.745,11,34,-,17,3,32
+Nov-17,16,Lil Pump,Gucci Gang,1071.232,7,27,-,73,3,26
+Nov-17,17,Ed Sheeran,Shape Of You,1068.838,18,35,-,10,14,29
+Nov-17,18,Ed Sheeran,Perfect,1050.764,22,4,3,1,3,3
+Nov-17,19,J Balvin & Willy William & Beyonce,Mi gente,1044.404,6,-,-,-,4,-
+Nov-17,20,Charlie Puth,Attention,1023.043,12,82,-,27,15,46
+Nov-17,21,21 Savage,Bank Account,962.277,14,41,-,-,20,-
+Nov-17,22,Khalid,Young Dumb & Broke,948.665,25,17,-,-,26,4
+Nov-17,23,Taylor Swift,Look What You Made Me Do,935.552,4,24,-,62,7,22
+Nov-17,24,Post Malone,I Fall Apart,904.962,28,19,-,-,29,4
+Nov-17,25,Charlie Puth,How Long,870.81,44,9,-,22,34,18
+Nov-17,26,Imagine Dragons,Believer,847.706,13,-,-,37,23,-
+Nov-17,27,Gucci Mane & Migos,I Get The Bag,838.805,11,-,-,-,28,-
+Nov-17,28,Shawn Mendes,There's Nothing Holdin' Me Back,836.573,19,77,-,97,26,41
+Nov-17,29,Niall Horan,Slow Hands,809.023,21,50,-,-,18,34
+Nov-17,30,Yo Gotti & Nicki Minaj,Rake It Up,798.649,13,-,-,-,50,-
+Nov-17,31,Ed Sheeran & Beyonce,Perfect,797.508,8,-,-,-,-,-
+Nov-17,32,Taylor Swift,...Ready For It?,793.631,19,35,-,92,7,35
+Nov-17,33,Liam Payne & Quavo,Strip That Down,766.652,16,85,-,164,22,36
+Nov-17,34,"DJ Khaled, Rihanna & Bryson Tiller",Wild Thoughts,760.211,25,53,-,112,27,37
+Nov-17,35,Post Malone & Quavo,Congratulations,759.004,34,29,-,165,30,30
+Nov-17,36,The Chainsmokers & Coldplay,Something Just Like This,720.903,34,88,-,50,34,-
+Nov-17,37,Ke$ha,Praying,695.908,28,-,-,-,33,28
+Nov-17,38,Lil Uzi Vert,XO TOUR Llif3,688.2,35,68,-,-,28,-
+Nov-17,39,G-Eazy & ASAP Rocky & Cardi B,No Limit,670.722,13,-,-,-,49,-
+Nov-17,40,Halsey,Bad At Love,667.169,20,-,-,-,50,48
+Nov-17,41,NF,Let You Down,654.525,61,19,10,-,41,22
+Nov-17,42,Kane Brown & Lauren Alaina,What Ifs,629.8,26,-,-,-,45,-
+Nov-17,43,Selena Gomez & Marshmello,Wolves,629.546,35,9,-,32,9,9
+Nov-17,44,Macklemore & Skylar Grey,Glorious,623.048,64,62,-,23,42,4
+Nov-17,45,Bruno Mars,That's What I Like,615.422,30,-,-,-,45,-
+Nov-17,46,Kendrick Lamar,Humble,614.485,33,-,-,-,32,36
+Nov-17,47,Luke Combs,When It Rains It Pours,598.317,33,-,-,-,54,-
+Nov-17,48,Sam Hunt,Body Like A Back Road,575.827,38,-,-,-,38,25
+Nov-17,49,Taylor Swift,Gorgeous,573.69,13,15,-,64,9,9
+Nov-17,50,Hailee Steinfeld & Alesso & Florida Georgia Line & Watt,Let Me Go,558.925,64,60,-,-,36,16
+Dec-17,1,Camila Cabello & Young Thug,Havana,2417.005,2,1,2,2,1,1
+Dec-17,2,Post Malone & 21 Savage,Rockstar,2345.165,1,8,5,9,2,2
+Dec-17,3,Lil Pump,Gucci Gang,1530.201,3,27,-,73,4,18
+Dec-17,4,Sam Smith,Too Good At Goodbyes,1477.917,4,5,-,12,3,6
+Dec-17,5,"Portugal, The Man",Feel It Still,1375.186,7,42,10,6,8,10
+Dec-17,6,Imagine Dragons,Thunder,1331.289,4,-,-,33,5,20
+Dec-17,7,Ed Sheeran & Beyonce,Perfect,1330.876,1,-,-,-,-,-
+Dec-17,8,Maroon 5 & SZA,What Lovers Do,1327.223,9,22,-,17,6,8
+Dec-17,9,Ed Sheeran,Perfect,1203.649,-,1,1,1,1,1
+Dec-17,10,Dua Lipa,New Rules,1176.268,14,21,-,78,7,9
+Dec-17,11,Mariah Carey,All I Want For Christmas Is You,1175.191,9,2,3,2,5,11
+Dec-17,12,Cardi B,Bodak Yellow (Money Moves),1150.699,3,84,-,139,15,36
+Dec-17,13,Selena Gomez & Marshmello,Wolves,1096.792,20,9,-,58,7,5
+Dec-17,14,Ed Sheeran,Shape Of You,1043.922,23,36,-,6,11,22
+Dec-17,15,Marshmello & Khalid,Silence,1026.134,30,3,8,132,7,5
+Dec-17,16,Demi Lovato,Sorry Not Sorry,1017.957,9,56,-,-,18,24
+Dec-17,17,Pink,What About Us,1012.324,17,28,-,7,14,23
+Dec-17,18,Zayn & Sia,Dusk Till Dawn,1012.295,68,10,6,5,20,12
+Dec-17,19,"Logic, Alessia Cara & Khalid",1-800-273-8255,1008.511,6,40,-,-,18,-
+Dec-17,20,Luis Fonsi & Daddy Yankee,Despacito,1002.045,18,41,-,19,10,44
+Dec-17,21,NF,Let You Down,992.361,16,10,9,-,20,7
+Dec-17,22,G-Eazy & ASAP Rocky & Cardi B,No Limit,989.247,7,-,-,-,31,-
+Dec-17,23,Charlie Puth,How Long,980.259,26,15,-,20,27,17
+Dec-17,24,"Migos, Nicki Minaj & Cardi B",MotorSport,968.309,6,65,-,163,12,-
+Dec-17,25,Post Malone,I Fall Apart,961.085,19,24,-,-,27,3
+Dec-17,26,Khalid,Young Dumb & Broke,950.621,22,17,-,-,23,5
+Dec-17,27,Halsey,Bad At Love,948.221,8,-,-,-,36,46
+Dec-17,28,French Montana & Swae Lee,Unforgettable,921.864,16,39,-,88,10,21
+Dec-17,29,J Balvin & Willy William & Beyonce,Mi gente,917.711,10,-,-,-,5,-
+Dec-17,30,21 Savage,Bank Account,891.624,15,44,-,-,17,-
+Dec-17,31,Gucci Mane & Migos,I Get The Bag,856.693,14,-,-,-,39,-
+Dec-17,32,Taylor Swift,...Ready For It?,815.393,18,48,-,157,21,35
+Dec-17,33,Imagine Dragons,Believer,757.383,23,-,-,60,28,-
+Dec-17,34,Charlie Puth,Attention,733.611,19,-,-,46,24,-
+Dec-17,35,Hailee Steinfeld & Alesso & Florida Georgia Line & Watt,Let Me Go,682.195,53,44,-,-,18,12
+Dec-17,36,Eminem & Beyonce,Walk On Water,672.283,14,13,-,47,22,10
+Dec-17,37,Bebe Rexha & Florida Georgia Line,Meant To Be,641.499,28,-,-,-,22,6
+Dec-17,38,6ix9ine,Gummo,639.113,12,-,-,-,55,-
+Dec-17,39,Lil Uzi Vert & Nicki Minaj,The Way Life Goes,637.691,24,96,-,-,44,-
+Dec-17,40,Shawn Mendes,There's Nothing Holdin' Me Back,627.4,33,98,-,170,38,-
+Dec-17,41,Kendrick Lamar & Zacari,Love.,615.859,25,-,-,-,84,-
+Dec-17,42,Post Malone & Quavo,Congratulations,600.397,35,62,-,-,29,30
+Dec-17,43,Bruno Mars,That's What I Like,597.618,32,-,-,-,-,-
+Dec-17,44,SZA,The Weekend,583.367,37,-,-,-,-,-
+Dec-17,45,NERD & Rihanna,Lemon,575.069,58,33,-,153,47,-
+Dec-17,46,Kendrick Lamar,Humble,573.362,46,-,-,-,35,37
+Dec-17,47,Taylor Swift,Look What You Made Me Do,572.143,31,78,-,148,23,43
+Dec-17,48,Luis Fonsi & Demi Lovato,Echame la culpa,565.448,47,46,-,6,35,-
+Dec-17,49,Post Malone,Candy Paint,557.31,59,65,-,-,60,24
+Dec-17,50,Offset & Metro Boomin,Ric Flair Drip,552.824,44,99,-,-,29,-
+Jan-18,1,Ed Sheeran,Perfect,2594.192,1,1,1,1,1,1
+Jan-18,2,Camila Cabello & Young Thug,Havana,2409.686,1,5,3,2,1,2
+Jan-18,3,Post Malone & 21 Savage,Rockstar,2098.577,2,12,7,16,3,4
+Jan-18,4,Imagine Dragons,Thunder,1413.113,4,94,-,36,4,20
+Jan-18,5,Eminem & Ed Sheeran,River,1380.014,32,1,3,31,6,2
+Jan-18,6,Sam Smith,Too Good At Goodbyes,1377.699,7,27,-,22,7,19
+Jan-18,7,G-Eazy & Halsey,Him & I,1365.998,15,27,6,24,9,10
+Jan-18,8,Dua Lipa,New Rules,1320.44,8,13,-,82,7,15
+Jan-18,9,Lil Pump,Gucci Gang,1284.665,4,53,-,84,4,32
+Jan-18,10,Ed Sheeran,Shape Of You,1231.696,13,21,-,6,9,19
+Jan-18,11,"Portugal, The Man",Feel It Still,1222.615,12,20,-,5,15,10
+Jan-18,12,G-Eazy & ASAP Rocky & Cardi B,No Limit,1221.048,4,-,-,-,7,43
+Jan-18,13,"Migos, Nicki Minaj & Cardi B",MotorSport,1195.702,6,59,-,192,12,-
+Jan-18,14,NF,Let You Down,1192.059,14,6,-,-,20,7
+Jan-18,15,Halsey,Bad At Love,1126.809,5,-,-,-,23,-
+Jan-18,16,Selena Gomez & Marshmello,Wolves,1088.617,21,9,-,45,8,9
+Jan-18,17,Maroon 5 & SZA,What Lovers Do,1066.297,13,60,-,22,13,11
+Jan-18,18,Charlie Puth,How Long,1037.691,22,36,-,15,24,22
+Jan-18,19,Cardi B,Bodak Yellow (Money Moves),1031.439,10,76,-,189,18,-
+Jan-18,20,Post Malone,I Fall Apart,1002.251,16,50,-,-,25,2
+Jan-18,21,Marshmello & Khalid,Silence,949.142,30,16,10,90,8,5
+Jan-18,22,Khalid,Young Dumb & Broke,932.067,18,33,-,-,22,12
+Jan-18,23,Kendrick Lamar & Zacari,Love.,918.237,11,-,-,-,41,-
+Jan-18,24,Bruno Mars & Cardi B,Finesse,896.546,3,5,-,13,3,-
+Jan-18,25,Luis Fonsi & Daddy Yankee,Despacito,889.624,25,26,-,9,5,36
+Jan-18,26,Demi Lovato,Sorry Not Sorry,887.807,15,81,-,-,34,34
+Jan-18,27,6ix9ine,Gummo,881.107,12,-,-,-,44,-
+Jan-18,28,Cardi B & 21 Savage,Bartier Cardi,867.603,14,40,-,196,18,-
+Jan-18,29,Bebe Rexha & Florida Georgia Line,Meant To Be,862.84,17,-,-,-,19,4
+Jan-18,30,Imagine Dragons,Believer,826.056,16,-,-,35,24,44
+Jan-18,31,French Montana & Swae Lee,Unforgettable,776.633,40,41,-,114,18,37
+Jan-18,32,Gucci Mane & Migos,I Get The Bag,774.355,15,-,-,-,46,-
+Jan-18,33,Hailee Steinfeld & Alesso & Florida Georgia Line & Watt,Let Me Go,770.437,40,42,-,-,24,12
+Jan-18,34,Luis Fonsi & Demi Lovato,Echame la culpa,767.409,57,100,9,4,40,-
+Jan-18,35,"Taylor Swift, Ed Sheeran & Future",End Game,726.661,18,49,-,130,11,38
+Jan-18,36,SZA,The Weekend,702.852,33,67,-,-,63,49
+Jan-18,37,"Logic, Alessia Cara & Khalid",1-800-273-8255,701.57,22,65,-,-,39,-
+Jan-18,38,J Balvin & Willy William & Beyonce,Mi gente,700.422,20,-,-,-,14,-
+Jan-18,39,Charlie Puth,Attention,696.726,34,88,-,48,35,-
+Jan-18,40,21 Savage,Bank Account,689.523,27,-,-,-,28,-
+Jan-18,41,Lil Uzi Vert & Nicki Minaj,The Way Life Goes,666.493,24,-,-,-,44,-
+Jan-18,42,Miguel & Travi$ Scott,Sky Walker,637.736,31,-,-,-,87,-
+Jan-18,43,Pink,What About Us,631.446,43,38,-,7,26,39
+Jan-18,44,Camila Cabello,Never Be The Same,628.936,30,7,-,78,26,17
+Jan-18,45,NERD & Rihanna,Lemon,616.077,40,77,-,-,73,-
+Jan-18,46,Offset & Metro Boomin,Ric Flair Drip,615.078,43,92,-,-,31,-
+Jan-18,47,Post Malone,Candy Paint,603.871,50,70,-,-,60,19
+Jan-18,48,A$AP Ferg & Nicki Minaj,Plain Jane,596.282,27,-,-,-,31,-
+Jan-18,49,Mariah Carey,All I Want For Christmas Is You,584.035,9,4,3,2,4,6
+Jan-18,50,Zayn & Sia,Dusk Till Dawn,575.103,85,34,-,10,21,20
+Feb-18,1,Ed Sheeran,Perfect,2549.423,1,7,1,2,2,1
+Feb-18,2,Drake,God's Plan,2275.524,1,1,3,4,1,1
+Feb-18,3,Camila Cabello & Young Thug,Havana,2153.232,1,22,4,3,1,4
+Feb-18,4,Post Malone & 21 Savage,Rockstar,1827.06,3,31,7,34,3,6
+Feb-18,5,Bruno Mars & Cardi B,Finesse,1821.629,3,6,-,26,4,-
+Feb-18,6,Dua Lipa,New Rules,1470.374,6,31,-,125,7,24
+Feb-18,7,Eminem & Ed Sheeran,River,1439.887,32,3,2,31,6,3
+Feb-18,8,G-Eazy & Halsey,Him & I,1362.084,14,22,6,24,9,13
+Feb-18,9,Imagine Dragons,Thunder,1315.893,6,88,-,71,5,25
+Feb-18,10,NF,Let You Down,1273.246,12,13,-,179,15,7
+Feb-18,11,Halsey,Bad At Love,1229.06,5,-,-,-,22,-
+Feb-18,12,"Portugal, The Man",Feel It Still,1225.309,20,4,-,10,20,12
+Feb-18,13,"Migos, Nicki Minaj & Cardi B",MotorSport,1203.327,8,49,-,-,17,-
+Feb-18,14,Bebe Rexha & Florida Georgia Line,Meant To Be,1184.903,7,-,-,-,15,2
+Feb-18,15,Sam Smith,Too Good At Goodbyes,1163.717,8,56,-,37,14,34
+Feb-18,16,Ed Sheeran,Shape Of You,1161.366,21,41,-,15,10,29
+Feb-18,17,G-Eazy & ASAP Rocky & Cardi B,No Limit,1135.615,5,-,-,-,12,44
+Feb-18,18,Post Malone,I Fall Apart,1097.358,17,47,-,-,20,2
+Feb-18,19,Selena Gomez & Marshmello,Wolves,1092.475,24,25,-,43,8,11
+Feb-18,20,Charlie Puth,How Long,1072.472,21,68,-,19,24,32
+Feb-18,21,Kendrick Lamar & Zacari,Love.,1044.042,12,97,-,-,47,-
+Feb-18,22,Cardi B & 21 Savage,Bartier Cardi,1040.375,14,50,-,-,21,-
+Feb-18,23,Camila Cabello,Never Be The Same,1017.361,27,10,-,158,26,7
+Feb-18,24,Kendrick Lamar & SZA,All The Stars,1002.045,9,5,-,24,8,5
+Feb-18,25,Luis Fonsi & Demi Lovato,Echame la culpa,988.403,57,-,6,4,40,-
+Feb-18,26,Migos,Stir Fry,987.564,8,51,-,-,19,40
+Feb-18,27,Justin Timberlake,Filthy,930.997,9,34,-,62,17,27
+Feb-18,28,Cardi B,Bodak Yellow (Money Moves),927.88,17,94,-,-,28,-
+Feb-18,29,Lil Pump,Gucci Gang,915.494,11,95,-,94,15,-
+Feb-18,30,6ix9ine,Gummo,894.373,13,-,-,-,44,-
+Feb-18,31,Khalid,Young Dumb & Broke,875.007,28,58,-,-,35,21
+Feb-18,32,Keala Settle & The Greatest Showman Ensemble,This Is Me,852.367,58,3,-,52,74,10
+Feb-18,33,Hailee Steinfeld & Alesso & Florida Georgia Line & Watt,Let Me Go,842.248,40,30,-,-,24,15
+Feb-18,34,"Taylor Swift, Ed Sheeran & Future",End Game,794.926,18,60,-,-,11,36
+Feb-18,35,Justin Timberlake & Chris Stapleton,Say Something,793.272,9,22,-,11,6,24
+Feb-18,36,A$AP Ferg & Nicki Minaj,Plain Jane,777.466,27,-,-,-,31,-
+Feb-18,37,Miguel & Travi$ Scott,Sky Walker,765.182,29,-,-,-,90,-
+Feb-18,38,Demi Lovato,Sorry Not Sorry,754.196,21,99,-,-,49,-
+Feb-18,39,Gucci Mane & Migos,I Get The Bag,744.053,24,-,-,-,-,-
+Feb-18,40,Thomas Rhett,Marry Me,712.17,35,-,-,-,51,-
+Feb-18,41,MAX & gnash,Lights Down Low,704.46,27,-,-,-,-,-
+Feb-18,42,Offset & Metro Boomin,Ric Flair Drip,693.288,39,89,-,-,36,-
+Feb-18,43,Dua Lipa,IDGAF,687.387,88,3,-,-,37,9
+Feb-18,44,Zac Efron & Zendaya,Rewrite The Stars,681.654,70,16,-,115,71,24
+Feb-18,45,Kodak Black & XXXTentacion,Roll In Peace,666.863,31,-,-,-,64,-
+Feb-18,46,"Logic, Alessia Cara & Khalid",1-800-273-8255,661.365,33,-,-,-,-,-
+Feb-18,47,Bazzi,Mine,650.956,22,27,-,-,13,17
+Feb-18,48,NERD & Rihanna,Lemon,646.556,40,-,-,-,79,-
+Feb-18,49,Liam Payne & Rita Ora,For You (Fifty Shades Freed),636.235,76,8,1,2,63,18
+Feb-18,50,The Weeknd & Kendrick Lamar,Pray For Me,633.734,7,11,-,16,6,12
+Mar-18,1,Drake,God's Plan,2813.825,1,1,1,4,1,1
+Mar-18,2,Ed Sheeran,Perfect,2067.073,2,23,5,2,3,3
+Mar-18,3,Bruno Mars & Cardi B,Finesse,1601.576,3,13,-,56,5,-
+Mar-18,4,Camila Cabello & Young Thug,Havana,1587.95,4,28,-,6,2,20
+Mar-18,5,Kendrick Lamar & SZA,All The Stars,1493.5,7,5,-,21,7,2
+Mar-18,6,The Weeknd & Kendrick Lamar,Pray For Me,1430.331,8,11,-,14,5,9
+Mar-18,7,Post Malone & Ty Dolla Sign,Psycho,1398.545,2,4,6,102,2,2
+Mar-18,8,BlocBoy JB & Drake,Look Alive,1393.084,5,17,-,-,4,29
+Mar-18,9,"Zedd, Maren Morris & Grey",The Middle,1352.522,6,9,-,142,6,7
+Mar-18,10,Marshmello & Anne-Marie,Friends,1327.612,28,4,1,84,8,8
+Mar-18,11,Post Malone & 21 Savage,Rockstar,1302.222,5,38,-,79,7,15
+Mar-18,12,Bebe Rexha & Florida Georgia Line,Meant To Be,1275.124,2,-,-,-,10,4
+Mar-18,13,Dua Lipa,New Rules,1189.962,8,26,-,151,11,35
+Mar-18,14,Migos,Stir Fry,1151.891,10,54,-,-,22,24
+Mar-18,15,"Portugal, The Man",Feel It Still,1144.37,28,3,-,18,29,21
+Mar-18,16,Bazzi,Mine,1131.005,15,21,-,107,13,11
+Mar-18,17,NF,Let You Down,1127.021,12,43,-,-,18,11
+Mar-18,18,G-Eazy & Halsey,Him & I,1125.985,14,26,-,64,18,19
+Mar-18,19,Camila Cabello,Never Be The Same,1101.251,16,10,-,138,20,10
+Mar-18,20,Justin Timberlake & Chris Stapleton,Say Something,1072.85,26,9,10,62,11,19
+Mar-18,21,Eminem & Ed Sheeran,River,1043.761,34,23,4,40,8,6
+Mar-18,22,Post Malone,I Fall Apart,983.275,18,62,-,-,21,3
+Mar-18,23,Imagine Dragons,Thunder,946.106,15,94,-,74,10,31
+Mar-18,24,Selena Gomez & Marshmello,Wolves,937.056,25,68,-,36,14,25
+Mar-18,25,"Rudimental, Jess Glynne, Macklemore & Dan Caplen",These Days,894.715,-,2,3,18,31,2
+Mar-18,26,Dua Lipa,IDGAF,882.68,58,3,-,189,29,6
+Mar-18,27,"Jay Rock, Kendrick Lamar, Future & James Blake",King's Dead,869.562,21,50,-,-,23,-
+Mar-18,28,Offset & Metro Boomin,Ric Flair Drip,833.807,13,67,-,-,13,-
+Mar-18,29,Luis Fonsi & Demi Lovato,Echame la culpa,827.028,76,-,7,3,43,-
+Mar-18,30,Halsey,Bad At Love,786.455,16,-,-,-,25,-
+Mar-18,31,Charlie Puth,How Long,778.393,21,-,-,53,26,50
+Mar-18,32,MAX & gnash,Lights Down Low,773.342,20,-,-,-,53,-
+Mar-18,33,Liam Payne & Rita Ora,For You (Fifty Shades Freed),763.881,76,8,1,2,63,15
+Mar-18,34,Kendrick Lamar & Zacari,Love.,760.606,13,-,-,-,-,-
+Mar-18,35,Cardi B & 21 Savage,Bartier Cardi,727.58,23,92,-,-,35,-
+Mar-18,36,Imagine Dragons,Whatever It Takes,719.159,24,-,-,13,67,-
+Mar-18,37,6ix9ine,Gummo,714.778,16,-,-,-,32,-
+Mar-18,38,"Migos, Nicki Minaj & Cardi B",MotorSport,703.89,18,87,-,-,38,-
+Mar-18,39,Khalid & Normani,Love Lies,703.718,43,24,-,-,21,14
+Mar-18,40,Keala Settle & The Greatest Showman Ensemble,This Is Me,698.197,60,6,-,109,74,13
+Mar-18,41,G-Eazy & ASAP Rocky & Cardi B,No Limit,678.947,20,-,-,-,32,-
+Mar-18,42,Khalid,Young Dumb & Broke,672.954,31,98,-,-,32,28
+Mar-18,43,Thomas Rhett,Marry Me,667.821,30,-,-,-,45,-
+Mar-18,44,Maroon 5,Wait,639.51,29,-,-,-,35,-
+Mar-18,45,YoungBoy Never Broke Again,Outside Today,639.296,31,-,-,-,-,-
+Mar-18,46,Daddy Yankee,Dura,633.173,50,-,-,83,77,-
+Mar-18,47,Jason Aldean,You Make It Easy,622.846,34,-,-,-,64,-
+Mar-18,48,Miguel & Travi$ Scott,Sky Walker,599.701,33,-,-,-,97,-
+Mar-18,49,Rich The Kid,Plug Walk,596.456,23,88,-,-,28,-
+Mar-18,50,XXXTentacion,Sad!,583.623,7,20,-,159,5,22
+Apr-18,1,Drake,God's Plan,2333.893,1,10,4,14,1,1
+Apr-18,2,Post Malone & Ty Dolla Sign,Psycho,1656.36,3,6,-,108,2,2
+Apr-18,3,Marshmello & Anne-Marie,Friends,1542.052,21,4,1,33,5,4
+Apr-18,4,Ed Sheeran,Perfect,1530.776,3,28,-,7,3,3
+Apr-18,5,"Zedd, Maren Morris & Grey",The Middle,1501.67,5,7,-,80,6,7
+Apr-18,6,Bebe Rexha & Florida Georgia Line,Meant To Be,1476.601,2,-,-,-,7,10
+Apr-18,7,Lil Dicky & Chris Brown,Freaky Friday,1438.308,8,1,-,128,10,4
+Apr-18,8,BlocBoy JB & Drake,Look Alive,1361.459,5,20,-,-,7,24
+Apr-18,9,Bruno Mars & Cardi B,Finesse,1297.019,3,42,-,76,12,-
+Apr-18,10,Camila Cabello & Young Thug,Havana,1260.031,8,34,-,13,4,26
+Apr-18,11,XXXTentacion,Sad!,1174.269,7,19,-,189,5,9
+Apr-18,12,Bazzi,Mine,1147.897,11,22,-,107,20,12
+Apr-18,13,Camila Cabello,Never Be The Same,1106.17,13,18,-,125,22,14
+Apr-18,14,Kendrick Lamar & SZA,All The Stars,1088.5,14,25,-,37,13,5
+Apr-18,15,The Weeknd & Kendrick Lamar,Pray For Me,1081.569,10,23,-,50,6,15
+Apr-18,16,Migos & Drake,Walk It Talk It,1061.46,10,41,-,117,15,-
+Apr-18,17,Justin Timberlake & Chris Stapleton,Say Something,1043.008,32,12,9,67,11,18
+Apr-18,18,"Portugal, The Man",Feel It Still,980.945,32,3,-,41,43,32
+Apr-18,19,Rich The Kid,Plug Walk,980.65,13,53,-,-,13,45
+Apr-18,20,Dua Lipa,New Rules,978.2,16,37,-,165,17,30
+Apr-18,21,Shawn Mendes,In My Blood,973.376,22,13,8,77,9,9
+Apr-18,22,Post Malone & 21 Savage,Rockstar,956.171,18,59,-,134,15,21
+Apr-18,23,The Weeknd,Call Out My Name,914.133,4,7,7,22,1,3
+Apr-18,24,Migos,Stir Fry,900.783,12,73,-,-,29,30
+Apr-18,25,Offset & Metro Boomin,Ric Flair Drip,889.425,13,74,-,-,14,-
+Apr-18,26,Drake,Nice For What,881.419,1,1,9,28,1,1
+Apr-18,27,NF,Let You Down,866.326,17,67,-,-,27,29
+Apr-18,28,"Rudimental, Jess Glynne, Macklemore & Dan Caplen",These Days,864.276,-,1,3,16,39,4
+Apr-18,29,Dua Lipa,IDGAF,847.097,54,17,-,69,29,3
+Apr-18,30,Imagine Dragons,Whatever It Takes,833.197,20,-,-,21,45,-
+Apr-18,31,Khalid & Normani,Love Lies,786.446,49,12,-,-,21,3
+Apr-18,32,Nicky Jam & J Balvin,X,768.415,47,-,-,4,61,-
+Apr-18,33,Post Malone,I Fall Apart,755,25,81,-,-,33,16
+Apr-18,34,Imagine Dragons,Thunder,732.801,22,-,-,132,22,-
+Apr-18,35,G-Eazy & Halsey,Him & I,714.094,21,94,-,157,32,37
+Apr-18,36,Kane Brown,Heaven,686.35,26,-,-,-,60,-
+Apr-18,37,Maroon 5,Wait,674.496,26,-,-,-,37,-
+Apr-18,38,Taylor Swift,Delicate,655.734,46,45,-,-,34,28
+Apr-18,39,"Jay Rock, Kendrick Lamar, Future & James Blake",King's Dead,654.54,27,97,-,-,35,-
+Apr-18,40,MAX & gnash,Lights Down Low,645.807,26,-,-,-,51,-
+Apr-18,41,Cardi B,Be Careful,626.698,11,24,-,154,24,-
+Apr-18,42,Jason Aldean,You Make It Easy,623.105,29,-,-,-,63,-
+Apr-18,43,Rae Sremmurd & Juicy J,Powerglide,610.426,34,-,-,-,33,-
+Apr-18,44,XXXTentacion,Moonlight,599.918,35,38,-,180,20,-
+Apr-18,45,XXXTentacion,Changes,584.5,37,71,-,-,34,47
+Apr-18,46,Cardi B & 21 Savage,Bartier Cardi,583.63,32,-,-,-,55,-
+Apr-18,47,Thomas Rhett,Marry Me,581.013,31,-,-,-,47,-
+Apr-18,48,Luis Fonsi & Demi Lovato,Echame la culpa,579.576,90,-,7,11,51,-
+Apr-18,49,Halsey,Bad At Love,574.346,33,-,-,-,50,-
+Apr-18,50,Daddy Yankee,Dura,570.624,53,-,-,143,89,-
+May-18,1,Drake,Nice For What,2151.718,1,2,-,42,1,1
+May-18,2,Drake,God's Plan,1799.313,2,23,-,26,2,3
+May-18,3,Post Malone & Ty Dolla Sign,Psycho,1695.403,2,6,-,150,1,1
+May-18,4,Ariana Grande,No Tears Left To Cry,1594.714,3,2,2,4,2,1
+May-18,5,Calvin Harris & Dua Lipa,One Kiss,1588.117,39,1,1,5,11,4
+May-18,6,"Zedd, Maren Morris & Grey",The Middle,1552.161,5,9,-,68,6,8
+May-18,7,Marshmello & Anne-Marie,Friends,1457.222,16,25,3,32,7,7
+May-18,8,Bebe Rexha & Florida Georgia Line,Meant To Be,1339.956,3,-,-,-,7,13
+May-18,9,Lil Dicky & Chris Brown,Freaky Friday,1338.777,8,4,-,-,11,6
+May-18,10,Ed Sheeran,Perfect,1322.161,7,42,-,21,5,14
+May-18,11,BlocBoy JB & Drake,Look Alive,1289.174,6,29,-,-,10,24
+May-18,12,"Cardi B, Bad Bunny & J Balvin",I Like It,1224.318,9,15,-,38,12,16
+May-18,13,Camila Cabello,Never Be The Same,1161.8,6,73,-,114,19,21
+May-18,14,The Weeknd,Call Out My Name,1060.603,17,17,-,69,4,5
+May-18,15,Shawn Mendes,In My Blood,1015.69,20,10,-,121,16,15
+May-18,16,Camila Cabello & Young Thug,Havana,1013.331,19,55,-,37,9,32
+May-18,17,Migos & Drake,Walk It Talk It,991.154,11,54,-,167,15,-
+May-18,18,Childish Gambino,This Is America,972.193,1,6,-,19,1,1
+May-18,19,Post Malone & 21 Savage,Rockstar,960.239,8,75,-,169,8,12
+May-18,20,Bazzi,Mine,954.839,14,-,-,74,20,17
+May-18,21,Imagine Dragons,Whatever It Takes,916.311,12,-,-,31,39,-
+May-18,22,Cardi B,Be Careful,911.181,15,34,-,-,36,-
+May-18,23,Post Malone,Better Now,872.435,7,9,-,-,3,2
+May-18,24,Nicky Jam & J Balvin,X,870.989,41,79,-,6,64,-
+May-18,25,Nicki Minaj,Chun-Li,863.954,10,41,-,109,18,-
+May-18,26,Rich The Kid,Plug Walk,861.173,16,68,-,-,16,45
+May-18,27,Dua Lipa,New Rules,840.365,28,50,-,-,29,48
+May-18,28,Bruno Mars & Cardi B,Finesse,830.413,12,75,-,128,25,-
+May-18,29,The Weeknd & Kendrick Lamar,Pray For Me,824.007,18,-,-,73,23,33
+May-18,30,Kendrick Lamar & SZA,All The Stars,823.061,31,59,-,65,31,12
+May-18,31,Khalid & Normani,Love Lies,820.723,47,12,-,-,28,4
+May-18,32,XXXTentacion,Sad!,777.134,22,39,-,-,13,20
+May-18,33,Kane Brown,Heaven,774.403,15,-,-,-,35,-
+May-18,34,Dua Lipa,IDGAF,766.328,59,34,-,86,32,11
+May-18,35,David Guetta & Sia,Flames,755.141,-,7,7,2,76,19
+May-18,36,J Cole,KOD,731.158,10,17,-,-,12,20
+May-18,37,Justin Timberlake & Chris Stapleton,Say Something,704.386,41,16,-,52,23,18
+May-18,38,Ella Mai,Boo'd Up,690.627,11,-,-,-,-,-
+May-18,39,Taylor Swift,Delicate,684.073,36,66,-,-,39,30
+May-18,40,J Cole,ATM,675.477,6,28,-,-,5,32
+May-18,41,Post Malone,Paranoid,667.534,11,11,-,-,6,10
+May-18,42,Maroon 5,Wait,664.462,25,-,-,-,43,-
+May-18,43,Rae Sremmurd & Juicy J,Powerglide,662.526,28,-,-,-,33,-
+May-18,44,Jason Aldean,You Make It Easy,645.727,29,-,-,-,65,-
+May-18,45,Daddy Yankee,Dura,640.809,43,-,-,113,91,-
+May-18,46,Offset & Metro Boomin,Ric Flair Drip,621.257,32,100,-,-,34,-
+May-18,47,J Cole,Kevin's Heart,608.957,8,56,-,-,16,46
+May-18,48,Famous Dex,Japan,604.877,28,-,-,-,40,-
+May-18,49,Lil Pump,Esskeetit,602.844,24,89,-,177,25,-
+May-18,50,Migos,Stir Fry,593.006,23,-,-,-,54,-
+Jun-18,1,Drake,Nice For What,1978.711,1,2,-,44,1,4
+Jun-18,2,Post Malone & Ty Dolla Sign,Psycho,1626.3,1,16,-,181,3,7
+Jun-18,3,Calvin Harris & Dua Lipa,One Kiss,1613.572,30,1,2,4,8,3
+Jun-18,4,Drake,God's Plan,1544.602,3,31,-,34,4,11
+Jun-18,5,"Cardi B, Bad Bunny & J Balvin",I Like It,1532.538,2,9,-,27,2,16
+Jun-18,6,Childish Gambino,This Is America,1500.621,1,9,-,33,1,1
+Jun-18,7,Ariana Grande,No Tears Left To Cry,1496.183,7,3,-,13,4,4
+Jun-18,8,"Zedd, Maren Morris & Grey",The Middle,1346.822,5,17,-,68,6,13
+Jun-18,9,Marshmello & Anne-Marie,Friends,1219.086,11,30,-,29,10,16
+Jun-18,10,Shawn Mendes,In My Blood,1160.891,11,12,-,51,14,10
+Jun-18,11,Lil Baby & Drake,Yes Indeed,1112.726,6,46,-,-,7,-
+Jun-18,12,Post Malone,Better Now,1102.211,20,6,-,192,6,2
+Jun-18,13,Ed Sheeran,Perfect,1093.583,10,44,-,28,12,23
+Jun-18,14,Juice WRLD,Lucid Dreams (Forget Me),1073.562,4,23,-,-,6,20
+Jun-18,15,Bebe Rexha & Florida Georgia Line,Meant To Be,1070.183,5,-,-,-,8,30
+Jun-18,16,Ella Mai,Boo'd Up,1049.708,6,-,-,-,-,-
+Jun-18,17,Selena Gomez,Back To You,983.254,22,13,-,97,4,4
+Jun-18,18,BlocBoy JB & Drake,Look Alive,975.439,8,34,-,-,17,39
+Jun-18,19,Camila Cabello & Young Thug,Havana,900.311,24,58,-,37,14,-
+Jun-18,20,Khalid & Normani,Love Lies,886.242,34,14,-,-,26,7
+Jun-18,21,Migos & Drake,Walk It Talk It,882.324,12,-,-,164,24,-
+Jun-18,22,Maroon 5 & Cardi B,Girls Like You,881.886,4,11,-,-,1,3
+Jun-18,23,Lil Dicky & Chris Brown,Freaky Friday,879.591,13,15,-,-,22,14
+Jun-18,24,Camila Cabello,Never Be The Same,866.309,9,-,-,118,19,-
+Jun-18,25,Imagine Dragons,Whatever It Takes,855.745,14,-,-,32,29,-
+Jun-18,26,Bazzi,Mine,847.421,15,-,-,71,25,48
+Jun-18,27,Nicky Jam & J Balvin,X,839.58,41,74,-,7,54,-
+Jun-18,28,Cardi B,Be Careful,799.344,16,57,-,-,51,-
+Jun-18,29,Post Malone & 21 Savage,Rockstar,787.131,19,-,-,-,13,22
+Jun-18,30,Dua Lipa,New Rules,763.859,28,56,-,-,34,-
+Jun-18,31,Taylor Swift,Delicate,757.082,25,75,-,-,43,-
+Jun-18,32,Dua Lipa,IDGAF,736.925,49,47,-,65,40,25
+Jun-18,33,Kane Brown,Heaven,734.878,15,-,-,-,33,-
+Jun-18,34,The Weeknd,Call Out My Name,712.761,30,38,-,55,18,10
+Jun-18,35,XXXTentacion,Sad!,706.676,1,31,-,27,2,38
+Jun-18,36,Maroon 5,Wait,697.613,24,-,-,-,43,-
+Jun-18,37,Nicki Minaj,Chun-Li,694.262,28,58,-,-,32,-
+Jun-18,38,Drake,I'm Upset,687.204,15,37,-,145,5,38
+Jun-18,39,Rich The Kid,Plug Walk,681.972,22,-,-,-,24,-
+Jun-18,40,BTS,Fake Love,673.434,10,42,-,22,22,36
+Jun-18,41,Clean Bandit & Demi Lovato,Solo,665.453,-,1,3,27,34,17
+Jun-18,42,The Weeknd & Kendrick Lamar,Pray For Me,658.296,18,-,-,120,23,-
+Jun-18,43,David Guetta & Sia,Flames,619.674,-,7,9,3,76,19
+Jun-18,44,Daddy Yankee,Dura,604.651,43,-,-,106,91,-
+Jun-18,45,Dan & Shay,Tequila,602.211,32,-,-,-,73,-
+Jun-18,46,ASAP Rocky & Skepta,Praise The Lord (Da Shine),590.995,45,18,-,44,22,34
+Jun-18,47,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",Te bote,585.293,36,-,-,-,-,-
+Jun-18,48,Charlie Puth & Kehlani,Done For Me,581.247,53,64,-,58,78,-
+Jun-18,49,Luke Combs,One Number Away,575.719,34,-,-,-,87,-
+Jun-18,50,Dennis Lloyd,Nevermind,570.096,-,42,3,16,37,19
+Jul-18,1,"Cardi B, Bad Bunny & J Balvin",I Like It,1949.588,1,8,-,28,3,14
+Jul-18,2,Maroon 5 & Cardi B,Girls Like You,1689.338,3,7,-,-,1,2
+Jul-18,3,XXXTentacion,Sad!,1645.655,1,5,-,33,2,4
+Jul-18,4,Drake,Nice For What,1537.95,1,25,-,43,3,7
+Jul-18,5,Calvin Harris & Dua Lipa,One Kiss,1478.956,26,10,4,2,7,7
+Jul-18,6,Juice WRLD,Lucid Dreams (Forget Me),1443.472,3,12,-,-,4,8
+Jul-18,7,Ariana Grande,No Tears Left To Cry,1380.503,8,23,-,21,8,5
+Jul-18,8,Drake,In My Feelings,1331.039,1,1,4,11,1,1
+Jul-18,9,Drake,God's Plan,1299.403,4,61,-,38,6,8
+Jul-18,10,Post Malone,Better Now,1254.655,7,7,-,129,7,3
+Jul-18,11,Post Malone & Ty Dolla Sign,Psycho,1229.573,5,72,-,-,11,18
+Jul-18,12,Ella Mai,Boo'd Up,1203.528,5,62,-,-,43,46
+Jul-18,13,"Zedd, Maren Morris & Grey",The Middle,1116.737,10,60,-,100,18,27
+Jul-18,14,Clean Bandit & Demi Lovato,Solo,1110.572,66,2,1,6,21,7
+Jul-18,15,Ed Sheeran,Perfect,1033.583,17,58,-,23,21,27
+Jul-18,16,Marshmello & Anne-Marie,Friends,1026.307,14,49,-,49,20,42
+Jul-18,17,Tyga & Offset,Taste,979.649,13,15,-,105,11,-
+Jul-18,18,Drake,I'm Upset,973.911,7,53,-,-,5,17
+Jul-18,19,Bebe Rexha & Florida Georgia Line,Meant To Be,961.29,10,-,-,-,17,43
+Jul-18,20,XXXTentacion,Moonlight,956.213,13,17,-,91,10,-
+Jul-18,21,Selena Gomez,Back To You,949.575,27,16,-,199,11,6
+Jul-18,22,5 Seconds of Summer,Youngblood,920.944,32,4,-,-,26,1
+Jul-18,23,XXXTentacion,Changes,914.504,18,22,-,76,15,15
+Jul-18,24,Drake,Nonstop,910.446,2,4,-,96,1,5
+Jul-18,25,Lil Baby & Drake,Yes Indeed,886.881,11,-,-,-,28,-
+Jul-18,26,Shawn Mendes,In My Blood,875.36,22,88,-,58,21,32
+Jul-18,27,Drake & Michael Jackson,Don't Matter To Me,872.878,9,2,-,19,4,3
+Jul-18,28,Taylor Swift,Delicate,848.608,12,93,-,-,27,-
+Jul-18,29,Khalid & Normani,Love Lies,839.709,21,33,-,-,41,10
+Jul-18,30,The Carters,Apeshit,827.367,13,-,-,35,24,-
+Jul-18,31,Childish Gambino,This Is America,824.197,17,44,-,77,21,22
+Jul-18,32,Bazzi,Mine,801.877,16,-,-,177,-,-
+Jul-18,33,Nicky Jam & J Balvin,X,763.094,47,89,-,12,39,-
+Jul-18,34,Imagine Dragons,Whatever It Takes,740.625,27,-,-,32,26,-
+Jul-18,35,Nicki Minaj,Bed,727.806,43,27,-,166,30,17
+Jul-18,36,Camila Cabello,Never Be The Same,720.412,26,-,-,165,31,-
+Jul-18,37,Dan & Shay,Tequila,707.151,21,-,-,-,-,-
+Jul-18,38,BlocBoy JB & Drake,Look Alive,670.149,25,-,-,-,36,-
+Jul-18,39,Cardi B,Be Careful,621.512,29,-,-,-,-,-
+Jul-18,40,Lil Dicky & Chris Brown,Freaky Friday,614.6,46,47,-,-,58,-
+Jul-18,41,XXXTentacion,Jocelyn Flores,597.384,19,-,-,191,14,8
+Jul-18,42,Kenny Chesney,Get Along,593.276,31,-,-,-,58,-
+Jul-18,43,Lauy,I Like Me Better,591.823,29,-,-,-,-,-
+Jul-18,44,Florida Georgia Line,Simple,582.736,36,-,-,-,30,-
+Jul-18,45,Dennis Lloyd,Nevermind,574.723,-,24,6,13,36,10
+Jul-18,46,Kanye West,All Mine,560.373,48,67,-,-,32,13
+Jul-18,47,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",Te bote,556.384,40,-,-,-,-,-
+Jul-18,48,Drake,Emotionless,550.79,8,5,-,154,13,12
+Jul-18,49,Juice WRLD,All Girls Are The Same,541.413,42,-,-,-,55,-
+Jul-18,50,Foster the People,Sit Next To Me,532.479,42,-,-,-,70,-
+Aug-18,1,Drake,In My Feelings,2574.612,1,1,4,5,1,1
+Aug-18,2,Maroon 5 & Cardi B,Girls Like You,1949.515,2,7,9,4,2,3
+Aug-18,3,"Cardi B, Bad Bunny & J Balvin",I Like It,1781.386,2,8,-,21,3,22
+Aug-18,4,Post Malone,Better Now,1491.317,5,11,-,54,10,6
+Aug-18,5,"6ix9ine, Nicki Minaj & Murda Beatz",Fefe,1464.002,3,17,-,22,-,8
+Aug-18,6,Juice WRLD,Lucid Dreams (Forget Me),1410.496,6,11,-,131,12,9
+Aug-18,7,Tyga & Offset,Taste,1320.699,8,10,-,69,11,-
+Aug-18,8,Clean Bandit & Demi Lovato,Solo,1229.954,58,13,3,4,21,10
+Aug-18,9,Ariana Grande,No Tears Left To Cry,1197.197,8,32,-,32,9,27
+Aug-18,10,Ella Mai,Boo'd Up,1173.401,5,52,-,-,45,-
+Aug-18,11,Calvin Harris & Dua Lipa,One Kiss,1145.235,26,14,8,3,7,20
+Aug-18,12,5 Seconds of Summer,Youngblood,1129.518,17,4,-,-,26,2
+Aug-18,13,Ariana Grande,God Is A Woman,1101.232,11,6,-,38,5,5
+Aug-18,14,Drake,Nice For What,1100.616,4,-,-,85,6,17
+Aug-18,15,Ed Sheeran,Perfect,1030.89,17,57,-,28,-,35
+Aug-18,16,Post Malone & Ty Dolla Sign,Psycho,1026.131,9,85,-,-,19,37
+Aug-18,17,XXXTentacion,Sad!,1021.85,15,46,-,23,14,24
+Aug-18,18,Khalid & Normani,Love Lies,1000.32,11,70,-,-,41,39
+Aug-18,19,"Zedd, Maren Morris & Grey",The Middle,963.783,14,60,-,137,22,-
+Aug-18,20,Drake,God's Plan,949.018,10,-,-,58,16,28
+Aug-18,21,Drake,Nonstop,936.834,20,22,-,167,13,23
+Aug-18,22,Marshmello & Anne-Marie,Friends,920.171,16,62,-,44,20,-
+Aug-18,23,Taylor Swift,Delicate,897.583,12,-,-,-,28,-
+Aug-18,24,Selena Gomez,Back To You,875.617,25,50,-,-,15,19
+Aug-18,25,Lil Baby & Drake,Yes Indeed,874.781,14,-,-,-,42,-
+Aug-18,26,"Tiesto, Dzeko, Preme & Post Malone",Jackie Chan,868.837,60,5,-,46,8,13
+Aug-18,27,"Benny Blanco, Halsey & Khalid",Eastside,854.35,44,3,-,160,48,4
+Aug-18,28,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",No Brainer,845.666,5,-,-,22,-,6
+Aug-18,29,Bebe Rexha & Florida Georgia Line,Meant To Be,818.219,17,-,-,-,17,46
+Aug-18,30,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",Big Bank,746.415,16,-,-,-,81,-
+Aug-18,31,Dennis Lloyd,Nevermind,742.826,86,19,7,10,36,10
+Aug-18,32,Travi$ Scott,Sicko Mode,741.499,4,9,-,41,-,7
+Aug-18,33,Shawn Mendes,In My Blood,714.463,23,-,-,58,25,49
+Aug-18,34,Bazzi,Mine,708.953,22,-,-,-,-,-
+Aug-18,35,Nicki Minaj,Bed,697.302,42,23,-,105,46,33
+Aug-18,36,Dan & Shay,Tequila,692.724,24,-,-,-,-,-
+Aug-18,37,XXXTentacion,Moonlight,685.43,37,77,-,35,32,-
+Aug-18,38,"Jonas Blue, Jack & Jack",Rise,683.21,-,3,8,39,43,8
+Aug-18,39,Brett Young,Mercy,656.26,29,-,-,-,90,-
+Aug-18,40,Kenny Chesney,Get Along,645.277,22,-,-,-,58,-
+Aug-18,41,The Carters,Apeshit,629.966,28,-,-,84,47,-
+Aug-18,42,Camila Cabello,Never Be The Same,622.644,30,-,-,-,38,-
+Aug-18,43,Lauy,I Like Me Better,621.496,29,-,-,-,-,-
+Aug-18,44,Florida Georgia Line,Simple,618.92,34,-,-,-,30,-
+Aug-18,45,Imagine Dragons,Natural,602.798,34,82,-,55,-,-
+Aug-18,46,Bebe Rexha,I'm A Mess,597.266,51,77,-,-,69,42
+Aug-18,47,Dynoro & Gigi D'Agostino,In My Mind,585.448,-,36,1,15,-,-
+Aug-18,48,Jason Aldean & Miranda Lambert,Drowns The Whiskey,579.734,36,-,-,-,77,-
+Aug-18,49,Travi$ Scott,Stargazing,575.443,8,15,-,36,-,10
+Aug-18,50,Drake & Michael Jackson,Don't Matter To Me,556.792,33,7,-,99,18,7
+Sep-18,1,Drake,In My Feelings,2096.825,1,2,-,14,1,2
+Sep-18,2,Maroon 5 & Cardi B,Girls Like You,2032.724,1,7,10,8,1,4
+Sep-18,3,"Cardi B, Bad Bunny & J Balvin",I Like It,1593.823,3,39,-,31,4,26
+Sep-18,4,"6ix9ine, Nicki Minaj & Murda Beatz",Fefe,1486.123,4,21,-,24,5,15
+Sep-18,5,Post Malone,Better Now,1456.709,4,41,-,57,8,12
+Sep-18,6,Juice WRLD,Lucid Dreams (Forget Me),1434.872,4,10,-,118,9,13
+Sep-18,7,Travi$ Scott,Sicko Mode,1334.429,7,13,-,111,6,10
+Sep-18,8,Tyga & Offset,Taste,1328.219,8,5,-,69,15,-
+Sep-18,9,Ariana Grande,God Is A Woman,1277.89,8,6,-,44,8,7
+Sep-18,10,5 Seconds of Summer,Youngblood,1177.369,10,15,-,-,10,3
+Sep-18,11,"Benny Blanco, Halsey & Khalid",Eastside,1174.487,28,1,-,97,14,2
+Sep-18,12,Ariana Grande,No Tears Left To Cry,1123.643,7,35,-,56,6,21
+Sep-18,13,Calvin Harris & Sam Smith,Promises,1106.76,65,1,5,18,19,4
+Sep-18,14,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",No Brainer,1052.197,12,-,-,66,9,6
+Sep-18,15,Khalid & Normani,Love Lies,983.768,9,98,-,-,26,49
+Sep-18,16,Clean Bandit & Demi Lovato,Solo,977.515,59,18,7,9,17,22
+Sep-18,17,Drake,Nonstop,969.992,15,30,-,174,20,44
+Sep-18,18,Imagine Dragons,Natural,966.504,14,54,-,90,21,28
+Sep-18,19,Ed Sheeran,Perfect,937.873,20,53,-,82,-,37
+Sep-18,20,Ella Mai,Boo'd Up,897.468,13,71,-,-,-,-
+Sep-18,21,XXXTentacion,Sad!,883.871,26,75,-,37,24,27
+Sep-18,22,Ariana Grande,Breathin,881.312,22,8,-,118,16,8
+Sep-18,23,Marshmello & Bastille,Happier,855.238,31,4,-,123,13,8
+Sep-18,24,Selena Gomez,Back To You,840.267,18,85,-,-,20,33
+Sep-18,25,Lil Baby & Drake,Yes Indeed,823.451,14,-,-,-,49,-
+Sep-18,26,Drake,Nice For What,816.374,17,72,-,169,21,36
+Sep-18,27,Eminem & Joyner Lucas,Lucky You,814.908,6,6,-,31,3,4
+Sep-18,28,"Tiesto, Dzeko, Preme & Post Malone",Jackie Chan,808.321,52,24,-,47,11,14
+Sep-18,29,Dynoro & Gigi D'Agostino,In My Mind,805.604,-,8,1,7,50,-
+Sep-18,30,Post Malone & Ty Dolla Sign,Psycho,772.605,16,-,-,-,29,46
+Sep-18,31,Bebe Rexha & Florida Georgia Line,Meant To Be,748.386,21,-,-,-,19,-
+Sep-18,32,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",Big Bank,739.649,20,-,-,-,51,-
+Sep-18,33,Taylor Swift,Delicate,739.274,19,-,-,-,23,-
+Sep-18,34,Bazzi & Camila Cabello,Beautiful,710.389,42,36,-,-,41,-
+Sep-18,35,Drake,God's Plan,710.22,27,-,-,71,25,39
+Sep-18,36,"Zedd, Maren Morris & Grey",The Middle,707.948,25,92,-,-,26,-
+Sep-18,37,Bebe Rexha,I'm A Mess,686.293,36,81,-,-,25,41
+Sep-18,38,Travi$ Scott,Stargazing,667.482,35,41,-,109,27,32
+Sep-18,39,Kanye West & Lil Pump,I Love It,666.169,6,3,10,27,1,4
+Sep-18,40,Eminem,The Ringer,666.03,8,4,-,36,5,5
+Sep-18,41,Lauy,I Like Me Better,654.561,27,-,-,-,-,-
+Sep-18,42,Panic! At the Disco,High Hopes,648.501,56,17,-,-,63,7
+Sep-18,43,Eminem,Fall,632.591,12,8,-,87,4,22
+Sep-18,44,Nicki Minaj,Barbie Dreams,630.965,38,63,-,-,53,-
+Sep-18,45,Florida Georgia Line,Simple,624.958,32,-,-,-,28,-
+Sep-18,46,Ella Mai,Trip,624.856,21,80,-,-,-,-
+Sep-18,47,Dan & Shay,Tequila,619.951,30,-,-,-,-,-
+Sep-18,48,Calvin Harris & Dua Lipa,One Kiss,609.493,39,28,-,12,14,28
+Sep-18,49,Luke Bryan,"Sunrise, Sunburn, Sunset",595.098,35,-,-,-,52,-
+Sep-18,50,Jason Aldean & Miranda Lambert,Drowns The Whiskey,578.543,32,-,-,-,53,-
+Oct-18,1,Maroon 5 & Cardi B,Girls Like You,2114.362,1,11,-,14,1,6
+Oct-18,2,Juice WRLD,Lucid Dreams (Forget Me),1643.05,2,35,-,103,7,22
+Oct-18,3,Marshmello & Bastille,Happier,1561.557,6,2,9,73,2,3
+Oct-18,4,Post Malone,Better Now,1493.161,3,50,-,122,7,30
+Oct-18,5,Kanye West & Lil Pump,I Love It,1490.755,7,3,9,29,2,4
+Oct-18,6,Drake,In My Feelings,1428.219,2,29,-,33,4,12
+Oct-18,7,Calvin Harris & Sam Smith,Promises,1373.922,68,1,2,12,17,5
+Oct-18,8,Travi$ Scott,Sicko Mode,1345.51,6,22,-,198,8,16
+Oct-18,9,5 Seconds of Summer,Youngblood,1285.555,7,37,-,-,5,10
+Oct-18,10,"Cardi B, Bad Bunny & J Balvin",I Like It,1255.116,6,63,-,71,12,40
+Oct-18,11,Tyga & Offset,Taste,1147.472,11,6,-,118,17,-
+Oct-18,12,"Benny Blanco, Halsey & Khalid",Eastside,1146.4,20,2,-,112,8,2
+Oct-18,13,"6ix9ine, Nicki Minaj & Murda Beatz",Fefe,1129.957,8,34,-,55,7,34
+Oct-18,14,Imagine Dragons,Natural,1114.792,13,59,-,58,20,28
+Oct-18,15,Lil Baby & Gunna,Drip Too Hard,1062.354,4,28,-,-,10,-
+Oct-18,16,Eminem,Killshot,1061.935,3,13,-,-,1,11
+Oct-18,17,Lady Gaga & Bradley Cooper,Shallow,1056.701,5,1,10,13,3,17
+Oct-18,18,Ariana Grande,God Is A Woman,989.065,17,39,-,106,21,27
+Oct-18,19,Panic! At the Disco,High Hopes,974.861,27,12,6,-,54,8
+Oct-18,20,"DJ Snake, Selena Gomez, Ozuna & Cardi B",Taki Taki,972.641,16,21,8,3,7,24
+Oct-18,21,Ella Mai,Trip,961.938,11,47,-,-,78,-
+Oct-18,22,Lil Peep & XXXTentacion,Falling Down,950.536,13,10,-,48,5,7
+Oct-18,23,Khalid & Normani,Love Lies,946.511,11,-,-,-,26,-
+Oct-18,24,Dynoro & Gigi D'Agostino,In My Mind,867.742,-,5,1,7,50,-
+Oct-18,25,Eminem & Joyner Lucas,Lucky You,862.923,13,12,-,100,5,11
+Oct-18,26,Drake,Nonstop,851.768,15,91,-,-,28,-
+Oct-18,27,XXXTentacion,Sad!,830.886,33,78,-,64,28,35
+Oct-18,28,Selena Gomez,Back To You,813.231,18,-,-,-,31,-
+Oct-18,29,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",No Brainer,801.04,16,-,-,144,15,13
+Oct-18,30,Ariana Grande,No Tears Left To Cry,774.384,25,50,-,175,26,43
+Oct-18,31,Bazzi & Camila Cabello,Beautiful,745.334,32,33,-,-,40,-
+Oct-18,32,Lil Baby & Drake,Yes Indeed,737.302,19,-,-,-,51,-
+Oct-18,33,Sheck Wes,Mo Bamba,736.966,21,80,-,-,24,-
+Oct-18,34,Ariana Grande,Breathin,730.044,52,15,-,-,44,19
+Oct-18,35,Khalid,Better,723.136,45,18,-,-,23,8
+Oct-18,36,Lil' Wayne & Kendrick Lamar,Mona Lisa,717.638,2,21,-,109,7,42
+Oct-18,37,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",Big Bank,716.563,24,-,-,-,72,-
+Oct-18,38,Ella Mai,Boo'd Up,716.163,20,-,-,-,-,-
+Oct-18,39,"Tiesto, Dzeko, Preme & Post Malone",Jackie Chan,698.793,52,55,-,98,16,21
+Oct-18,40,Taylor Swift,Delicate,677.765,27,-,-,-,38,-
+Oct-18,41,Bebe Rexha & Florida Georgia Line,Meant To Be,668.836,26,-,-,-,33,-
+Oct-18,42,"Gucci Mane, Bruno Mars & Kodak Black",Wake Up In The Sky,638.061,30,85,-,-,54,46
+Oct-18,43,Bebe Rexha,I'm A Mess,636.331,36,99,-,-,25,-
+Oct-18,44,Post Malone & Ty Dolla Sign,Psycho,622.003,32,-,-,-,43,-
+Oct-18,45,Lauy,I Like Me Better,611.126,34,-,-,-,-,-
+Oct-18,46,lovelytheband,Broken,610.795,33,-,-,-,41,-
+Oct-18,47,"Zedd, Maren Morris & Grey",The Middle,594.804,35,-,-,-,40,-
+Oct-18,48,Lil Uzi Vert,New Patek,586.468,24,68,-,-,30,-
+Oct-18,49,French Montana & Drake,No Stylist,570.859,47,19,-,-,16,-
+Oct-18,50,Florida Georgia Line,Simple,564.086,41,-,-,-,34,-
+Nov-18,1,Maroon 5 & Cardi B,Girls Like You,1816.877,1,29,-,18,1,12
+Nov-18,2,Marshmello & Bastille,Happier,1671.143,3,4,9,43,2,3
+Nov-18,3,Travi$ Scott,Sicko Mode,1579.218,2,43,-,194,4,16
+Nov-18,4,"DJ Snake, Selena Gomez, Ozuna & Cardi B",Taki Taki,1521.66,11,15,8,3,7,24
+Nov-18,5,Lady Gaga & Bradley Cooper,Shallow,1468.2,10,1,10,6,4,1
+Nov-18,6,"Kodak Black, Travi$ Scott & Offset",Zeze,1458.125,2,7,-,77,1,14
+Nov-18,7,Juice WRLD,Lucid Dreams (Forget Me),1412.598,3,53,-,93,7,35
+Nov-18,8,Halsey,Without Me,1394.05,4,4,-,162,9,3
+Nov-18,9,Panic! At the Disco,High Hopes,1355.691,8,19,6,-,25,11
+Nov-18,10,Post Malone,Better Now,1254.195,4,61,-,-,9,28
+Nov-18,11,Bad Bunny & Drake,Mia,1226.44,5,21,-,23,3,40
+Nov-18,12,5 Seconds of Summer,Youngblood,1213.096,7,41,-,-,3,14
+Nov-18,13,Sheck Wes,Mo Bamba,1118.691,7,27,-,-,6,42
+Nov-18,14,Lil Baby & Gunna,Drip Too Hard,1109.836,8,45,-,-,16,-
+Nov-18,15,"Benny Blanco, Halsey & Khalid",Eastside,1092.666,18,17,-,126,6,2
+Nov-18,16,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),1080.741,9,7,-,178,6,6
+Nov-18,17,Imagine Dragons,Natural,1062.886,13,49,-,32,12,-
+Nov-18,18,Ella Mai,Trip,927.512,11,61,-,-,78,-
+Nov-18,19,Khalid & Normani,Love Lies,906.7,10,-,-,-,27,-
+Nov-18,20,Drake,In My Feelings,906.033,15,60,-,79,11,27
+Nov-18,21,Ariana Grande,"Thank U, Next",903.832,1,-,-,19,1,1
+Nov-18,22,Calvin Harris & Sam Smith,Promises,897.274,77,2,4,13,15,5
+Nov-18,23,Tyga & Offset,Taste,885.58,17,42,-,159,24,-
+Nov-18,24,"Cardi B, Bad Bunny & J Balvin",I Like It,860.289,12,91,-,89,19,-
+Nov-18,25,Ariana Grande,Breathin,858.668,14,48,-,-,15,38
+Nov-18,26,Khalid,Better,795.109,34,15,-,-,16,6
+Nov-18,27,Kanye West & Lil Pump,I Love It,793.438,26,11,-,71,10,6
+Nov-18,28,Ariana Grande,God Is A Woman,777.119,19,76,-,-,28,-
+Nov-18,29,Cardi B,Money,771.859,13,49,-,-,30,-
+Nov-18,30,"Gucci Mane, Bruno Mars & Kodak Black",Wake Up In The Sky,759.666,14,95,-,-,59,-
+Nov-18,31,"6ix9ine, Nicki Minaj & Murda Beatz",Fefe,719.671,18,-,-,82,22,-
+Nov-18,32,Drake,Nonstop,715.229,20,-,-,-,37,-
+Nov-18,33,"XXXTentacion, Lil Pump, Maluma & Swae Lee",Arms Around You,700.459,28,14,-,47,16,14
+Nov-18,34,lovelytheband,Broken,682.048,29,-,-,-,24,-
+Nov-18,35,Lady GaGa,Always Remember Us This Way,678.847,50,25,-,60,32,12
+Nov-18,36,Billie Eilish,When The Party's Over,671.793,58,21,-,163,14,10
+Nov-18,37,Bazzi & Camila Cabello,Beautiful,665.077,31,54,-,-,35,-
+Nov-18,38,Lil Baby & Drake,Yes Indeed,664.07,27,-,-,-,-,-
+Nov-18,39,XXXTentacion,Sad!,655.984,40,88,-,72,31,46
+Nov-18,40,Dean Lewis,Be Alright,649.602,81,15,8,119,55,4
+Nov-18,41,Shawn Mendes & Zedd,Lost In Japan,641.284,48,45,-,-,26,-
+Nov-18,42,Lil' Wayne,Uproar,631.264,33,-,-,-,57,-
+Nov-18,43,French Montana & Drake,No Stylist,620.976,67,20,-,-,18,-
+Nov-18,44,Luke Combs,She Got The Best Of Me ,613.084,35,-,-,-,53,-
+Nov-18,45,Dynoro & Gigi D'Agostino,In My Mind,607.228,-,8,3,12,65,-
+Nov-18,46,Bebe Rexha,I'm A Mess,606.754,35,-,-,-,34,-
+Nov-18,47,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",Big Bank,604.946,29,-,-,-,75,-
+Nov-18,48,Lil Peep & XXXTentacion,Falling Down,604.73,55,40,-,95,31,16
+Nov-18,49,Ella Mai,Boo'd Up,592.746,25,-,-,-,-,-
+Nov-18,50,Lauy,I Like Me Better,583.088,37,-,-,-,-,-
+Dec-18,1,Ariana Grande,"Thank U, Next",1905.64,1,-,-,12,1,1
+Dec-18,2,Halsey,Without Me,1804.581,2,3,-,92,2,2
+Dec-18,3,Mariah Carey,All I Want For Christmas Is You,1712.286,6,2,2,1,5,10
+Dec-18,4,Travi$ Scott,Sicko Mode,1704.456,1,43,-,135,3,7
+Dec-18,5,Marshmello & Bastille,Happier,1629.536,3,32,-,41,2,5
+Dec-18,6,Panic! At the Disco,High Hopes,1533.55,5,83,7,101,8,22
+Dec-18,7,"Kodak Black, Travi$ Scott & Offset",Zeze,1383.615,7,8,-,101,8,19
+Dec-18,8,Maroon 5 & Cardi B,Girls Like You,1283.771,8,53,-,33,3,21
+Dec-18,9,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),1282.915,4,9,-,113,6,2
+Dec-18,10,Sheck Wes,Mo Bamba,1233.205,6,27,-,-,5,29
+Dec-18,11,"DJ Snake, Selena Gomez, Ozuna & Cardi B",Taki Taki,1155.393,22,19,-,3,17,32
+Dec-18,12,Lady Gaga & Bradley Cooper,Shallow,1104.549,23,5,-,6,4,2
+Dec-18,13,"Benny Blanco, Halsey & Khalid",Eastside,1093.191,16,31,-,142,8,7
+Dec-18,14,Lil Baby & Gunna,Drip Too Hard,1071.505,8,-,-,-,14,-
+Dec-18,15,Juice WRLD,Lucid Dreams (Forget Me),1068.773,5,84,-,139,11,44
+Dec-18,16,Wham!,Last Christmas,1044.614,27,3,3,19,16,18
+Dec-18,17,Bad Bunny & Drake,Mia,1020.682,18,35,-,18,26,-
+Dec-18,18,5 Seconds of Summer,Youngblood,997.823,12,79,-,-,7,16
+Dec-18,19,Post Malone,Better Now,979.816,11,91,-,-,15,28
+Dec-18,20,Ariana Grande,Breathin,954.418,12,86,-,-,23,38
+Dec-18,21,"Gucci Mane, Bruno Mars & Kodak Black",Wake Up In The Sky,908.48,11,-,-,-,48,-
+Dec-18,22,Ava Max,Sweet But Psycho,900.288,87,1,1,63,63,3
+Dec-18,23,Khalid,Better,886.881,29,15,-,-,14,11
+Dec-18,24,Ella Mai,Trip,819.294,15,69,-,-,-,-
+Dec-18,25,Andy Williams,It's The Most Wonderful Time Of The Year,796.254,10,29,-,186,32,-
+Dec-18,26,Imagine Dragons,Natural,793.776,20,76,-,37,24,-
+Dec-18,27,Brenda Lee,Rockin' Around The Christmas Tree,780.423,11,16,-,112,15,-
+Dec-18,28,Cardi B,Money,770.278,21,81,-,-,45,-
+Dec-18,29,"XXXTentacion, Lil Pump, Maluma & Swae Lee",Arms Around You,756.491,49,23,-,58,13,16
+Dec-18,30,Dean Lewis,Be Alright,754.436,63,82,8,76,53,8
+Dec-18,31,Khalid & Normani,Love Lies,750.445,19,-,-,-,38,-
+Dec-18,32,Flipp Dinero,Leave Me Alone,727.112,27,97,-,-,48,-
+Dec-18,33,Meek Mill & Drake,Going Bad,708.841,6,17,-,-,3,32
+Dec-18,34,"Cardi B, Bad Bunny & J Balvin",I Like It,708.798,24,-,-,127,31,-
+Dec-18,35,Billie Eilish,When The Party's Over,705.945,52,21,-,179,16,10
+Dec-18,36,Bobby Helms,Jingle Bell Rock,693.669,13,41,-,89,19,-
+Dec-18,37,XXXTentacion,Bad!,689.958,33,41,-,95,17,31
+Dec-18,38,Bazzi & Camila Cabello,Beautiful,667.673,30,-,-,-,40,-
+Dec-18,39,Dan & Shay,Speechless,642.209,33,-,-,-,62,-
+Dec-18,40,Tyga & Offset,Taste,635.233,27,65,-,-,30,-
+Dec-18,41,6ix9ine & Tory Lanez,Kika,624.851,44,9,-,51,13,30
+Dec-18,42,Burl Ives,A Holly Jolly Christmas,604.285,12,-,-,-,-,-
+Dec-18,43,Lil' Wayne,Uproar,588.829,37,-,-,-,66,-
+Dec-18,44,Luke Combs,She Got The Best Of Me ,588.463,34,-,-,-,61,-
+Dec-18,45,"Ellie Goulding, Diplo & Swae Lee",Close To Me,580.919,57,17,-,-,60,-
+Dec-18,46,lovelytheband,Broken,572.25,32,-,-,-,25,-
+Dec-18,47,Ariana Grande,God Is A Woman,564.835,26,-,-,-,34,-
+Dec-18,48,"Meek Mill, Jeremih & PnB Rock",Dangerous,562.92,31,-,-,-,-,-
+Dec-18,49,Nat King Cole,The Christmas Song (Merry Christmas To You),544.14,17,-,-,-,44,-
+Dec-18,50,Jimmie Allen,Best Shot,526.523,47,-,-,-,88,-
+Jan-19,1,Halsey,Without Me,2035.594,1,10,-,39,2,3
+Jan-19,2,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),1919.426,1,3,-,63,1,1
+Jan-19,3,Panic! At the Disco,High Hopes,1789.234,4,42,5,20,5,23
+Jan-19,4,Ariana Grande,"Thank U, Next",1769.496,1,-,-,17,1,1
+Jan-19,5,Travi$ Scott,Sicko Mode,1611.388,3,33,-,114,4,8
+Jan-19,6,Marshmello & Bastille,Happier,1563.58,5,26,-,27,3,9
+Jan-19,7,Ava Max,Sweet But Psycho,1557.554,36,1,1,9,22,2
+Jan-19,8,Maroon 5 & Cardi B,Girls Like You,1364.126,7,34,-,31,5,21
+Jan-19,9,"Kodak Black, Travi$ Scott & Offset",Zeze,1341.586,8,10,-,94,11,28
+Jan-19,10,"Benny Blanco, Halsey & Khalid",Eastside,1226.783,9,29,-,139,10,7
+Jan-19,11,Lil Baby & Gunna,Drip Too Hard,1175.236,8,91,-,-,20,-
+Jan-19,12,Post Malone,Wow.,1174.172,9,3,-,113,7,4
+Jan-19,13,Sheck Wes,Mo Bamba,1145.899,14,26,-,147,12,39
+Jan-19,14,"DJ Snake, Selena Gomez, Ozuna & Cardi B",Taki Taki,1129.991,19,65,-,2,14,-
+Jan-19,15,Lady Gaga & Bradley Cooper,Shallow,1112.933,23,21,-,5,9,7
+Jan-19,16,Post Malone,Better Now,1070.905,10,72,-,-,16,29
+Jan-19,17,Meek Mill & Drake,Going Bad,1060.921,17,18,-,182,9,32
+Jan-19,18,5 Seconds of Summer,Youngblood,1053.606,14,63,-,-,11,13
+Jan-19,19,Cardi B,Money,1015.213,13,35,-,-,38,-
+Jan-19,20,Mark Ronson & Miley Cyrus,Nothing Breaks Like A Heart,985.598,43,2,-,52,19,6
+Jan-19,21,Bad Bunny & Drake,Mia,984.408,20,-,-,14,23,-
+Jan-19,22,"Gucci Mane, Bruno Mars & Kodak Black",Wake Up In The Sky,970.537,12,-,-,-,36,-
+Jan-19,23,Juice WRLD,Lucid Dreams (Forget Me),921.642,18,83,-,163,20,44
+Jan-19,24,Flipp Dinero,Leave Me Alone,911.716,21,36,-,-,30,-
+Jan-19,25,Ariana Grande,Breathin,890.852,15,-,-,-,24,-
+Jan-19,26,Khalid,Better,877.486,22,54,-,185,19,13
+Jan-19,27,Dean Lewis,Be Alright,819.223,40,93,10,48,38,13
+Jan-19,28,"Cardi B, Bad Bunny & J Balvin",I Like It,811.912,26,66,-,69,21,44
+Jan-19,29,"Ellie Goulding, Diplo & Swae Lee",Close To Me,782.777,31,25,-,-,31,-
+Jan-19,30,Imagine Dragons,Natural,781.353,25,-,-,31,28,-
+Jan-19,31,Dan & Shay,Speechless,736.605,24,-,-,-,41,-
+Jan-19,32,Ella Mai,Trip,723.635,23,-,-,-,-,-
+Jan-19,33,Bazzi & Camila Cabello,Beautiful,687.242,26,-,-,-,53,-
+Jan-19,34,Khalid & Normani,Love Lies,684.42,27,-,-,-,-,-
+Jan-19,35,21 Savage,A Lot,677.953,33,86,-,-,47,-
+Jan-19,36,"XXXTentacion, Lil Pump, Maluma & Swae Lee",Arms Around You,653.705,55,88,-,25,35,33
+Jan-19,37,A Boogie Wit da Hoodie & 6ix9ine,Swervin,652.302,38,41,-,-,27,-
+Jan-19,38,Ariana Grande,Imagine,644.03,24,20,-,-,17,15
+Jan-19,39,Pinkfong,Baby Shark,640.449,32,6,-,-,44,-
+Jan-19,40,Luke Combs,She Got The Best Of Me ,639.145,31,-,-,-,66,-
+Jan-19,41,Mariah Carey,All I Want For Christmas Is You,629.655,3,2,2,1,1,1
+Jan-19,42,Lauren Daigle,You Say,610.441,34,-,-,-,-,-
+Jan-19,43,Billie Eilish,When The Party's Over,603.872,68,61,-,-,41,19
+Jan-19,44,A Boogie Wit da Hoodie,Look Back At It,603.515,40,73,-,-,23,-
+Jan-19,45,Lil' Wayne,Uproar,602.837,35,-,-,-,90,-
+Jan-19,46,Jimmie Allen,Best Shot,585.771,37,-,-,-,79,-
+Jan-19,47,Thomas Rhett,Sixteen,551.1,42,-,-,-,71,-
+Jan-19,48,The Chainsmokers & Kelsea Ballerini,This Feeling,545.95,50,-,-,-,34,44
+Jan-19,49,Pardison Fontaine & Cardi B,Backin' It Up,541.066,44,-,-,-,-,-
+Jan-19,50,Luke Combs,Beautiful Crazy,539.36,41,-,-,-,68,-
+Feb-19,1,Ariana Grande,7 Rings,4043.694,1,1,4,2,1,1
+Feb-19,2,Halsey,Without Me,1660.518,1,14,-,39,2,3
+Feb-19,3,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),1557.421,2,8,-,66,1,1
+Feb-19,4,Marshmello & Bastille,Happier,1453.765,2,29,-,24,2,12
+Feb-19,5,Panic! At the Disco,High Hopes,1452.87,4,42,9,19,5,28
+Feb-19,6,Ava Max,Sweet But Psycho,1434.034,30,2,3,8,17,2
+Feb-19,7,Post Malone,Wow.,1351.362,8,5,-,113,6,4
+Feb-19,8,Travi$ Scott,Sicko Mode,1321.593,3,52,-,128,4,6
+Feb-19,9,Ariana Grande,"Thank U, Next",1311.821,3,-,-,19,4,5
+Feb-19,10,J Cole,Middle Child,1166.077,4,9,-,192,4,15
+Feb-19,11,Lady Gaga & Bradley Cooper,Shallow,1150.609,16,21,-,4,7,6
+Feb-19,12,Maroon 5 & Cardi B,Girls Like You,1141.592,7,71,-,60,8,30
+Feb-19,13,"Benny Blanco, Halsey & Khalid",Eastside,1116.025,10,50,-,139,10,7
+Feb-19,14,Meek Mill & Drake,Going Bad,1097.176,13,13,-,169,12,33
+Feb-19,15,Sam Smith & Normani,Dancing With A Stranger,1036.998,26,3,-,61,16,7
+Feb-19,16,"Kodak Black, Travi$ Scott & Offset",Zeze,1009.54,10,18,-,106,15,36
+Feb-19,17,Lil Baby & Gunna,Drip Too Hard,905.925,8,-,-,-,20,-
+Feb-19,18,Cardi B,Money,898.437,13,61,-,-,44,-
+Feb-19,19,21 Savage,A Lot,884.126,12,29,-,-,21,-
+Feb-19,20,Post Malone,Better Now,866.577,15,85,-,-,17,31
+Feb-19,21,Sheck Wes,Mo Bamba,859.901,14,37,-,150,12,40
+Feb-19,22,Bad Bunny & Drake,Mia,856.173,19,-,-,14,32,-
+Feb-19,23,Mark Ronson & Miley Cyrus,Nothing Breaks Like A Heart,854.366,50,6,-,34,19,7
+Feb-19,24,Flipp Dinero,Leave Me Alone,848.779,20,30,-,-,30,-
+Feb-19,25,5 Seconds of Summer,Youngblood,847.468,16,97,-,-,11,14
+Feb-19,26,Khalid,Better,847.283,18,76,-,-,19,13
+Feb-19,27,"DJ Snake, Selena Gomez, Ozuna & Cardi B",Taki Taki,832.288,18,-,-,11,15,-
+Feb-19,28,Gesaffelstein & The Weeknd,Lost In The Fire,769.531,27,19,-,81,14,24
+Feb-19,29,"Gucci Mane, Bruno Mars & Kodak Black",Wake Up In The Sky,759.7,12,-,-,-,43,-
+Feb-19,30,Blueface,Thotiana,750.095,20,23,-,-,24,-
+Feb-19,31,"Ellie Goulding, Diplo & Swae Lee",Close To Me,738.959,28,27,-,-,24,-
+Feb-19,32,Pinkfong,Baby Shark,737.859,36,19,-,-,47,-
+Feb-19,33,A Boogie Wit da Hoodie,Look Back At It,701.382,32,51,-,-,23,45
+Feb-19,34,Billie Eilish,Bury A Friend,701.087,14,7,-,91,12,3
+Feb-19,35,A Boogie Wit da Hoodie & 6ix9ine,Swervin,684.99,39,27,-,-,27,-
+Feb-19,36,Juice WRLD,Lucid Dreams (Forget Me),653.337,23,-,-,184,26,-
+Feb-19,37,Dean Lewis,Be Alright,650.577,43,-,-,37,34,15
+Feb-19,38,Chris Brown,Undecided,648.191,54,16,-,-,-,-
+Feb-19,39,Ariana Grande,"Break Up With Your Girlfriend, I'm",609.758,2,1,8,16,2,2
+Feb-19,40,"Cardi B, Bad Bunny & J Balvin",I Like It,598.023,30,-,-,131,35,-
+Feb-19,41,Luke Combs,Beautiful Crazy,589.9,36,-,-,-,55,-
+Feb-19,42,Lauren Daigle,You Say,584.56,35,-,-,-,61,-
+Feb-19,43,Calvin Harris & Rag'n'Bone Man,Giant,578.037,-,4,7,24,34,25
+Feb-19,44,Ariana Grande,Breathin,551.524,18,-,-,-,27,-
+Feb-19,45,City Girls & Cardi B,Twerk,542.098,29,-,-,-,70,-
+Feb-19,46,Calboy,Envy Me,530.21,41,-,-,-,88,-
+Feb-19,47,Billie Eilish,When The Party's Over,522.213,61,70,-,194,37,22
+Feb-19,48,Pardison Fontaine & Cardi B,Backin' It Up,521.001,40,-,-,-,-,-
+Feb-19,49,Kehlani & Ty Dolla Sign,Nights Like This,515.447,69,30,-,-,63,41
+Feb-19,50,Scotty McCreery,This Is It,513.187,42,-,-,-,87,-
+Mar-19,1,Ariana Grande,7 Rings,3318.874,1,4,10,2,1,1
+Mar-19,2,Lady Gaga & Bradley Cooper,Shallow,2343.642,1,11,4,3,1,1
+Mar-19,3,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),1690.713,2,29,-,92,3,2
+Mar-19,4,Halsey,Without Me,1689.848,2,47,-,70,3,9
+Mar-19,5,Ava Max,Sweet But Psycho,1519.197,20,12,3,8,14,7
+Mar-19,6,Ariana Grande,"Break Up With Your Girlfriend, I'm",1497.218,2,3,-,20,2,2
+Mar-19,7,Post Malone,Wow.,1493.107,4,14,-,124,5,2
+Mar-19,8,Marshmello & Bastille,Happier,1479.035,6,44,-,47,2,14
+Mar-19,9,Jonas Brothers,Sucker,1478.562,1,4,-,56,1,1
+Mar-19,10,Cardi B & Bruno Mars,Please Me,1474.015,3,13,-,116,12,22
+Mar-19,11,J Cole,Middle Child,1345.801,5,21,-,-,8,25
+Mar-19,12,Panic! At the Disco,High Hopes,1312.4,8,37,-,15,9,-
+Mar-19,13,Blueface,Thotiana,1255.045,9,15,-,167,12,-
+Mar-19,14,Sam Smith & Normani,Dancing With A Stranger,1252.182,17,5,-,37,10,6
+Mar-19,15,Travi$ Scott,Sicko Mode,1248.685,7,72,-,115,8,12
+Mar-19,16,Ariana Grande,"Thank U, Next",1225.527,3,-,-,39,4,7
+Mar-19,17,"Benny Blanco, Halsey & Khalid",Eastside,1157.512,10,57,-,-,13,17
+Mar-19,18,Meek Mill & Drake,Going Bad,1148.494,10,16,-,126,12,36
+Mar-19,19,YNW Melly,Murder On My Mind,1114.277,14,20,-,-,9,-
+Mar-19,20,Maroon 5 & Cardi B,Girls Like You,1008.846,12,86,-,72,11,49
+Mar-19,21,Billie Eilish,Bury A Friend,995.659,32,9,-,82,14,4
+Mar-19,22,21 Savage,A Lot,935.814,15,46,-,-,25,-
+Mar-19,23,Khalid,Better,884.44,18,-,-,-,23,27
+Mar-19,24,Khalid,Talk,879.013,41,12,-,136,28,7
+Mar-19,25,Dean Lewis,Be Alright,871.187,23,-,-,34,30,28
+Mar-19,26,Juice WRLD,Robbery,865.542,27,39,-,-,22,41
+Mar-19,27,Bad Bunny & Drake,Mia,863.298,24,-,-,17,44,-
+Mar-19,28,Post Malone,Better Now,845.532,27,87,-,-,26,40
+Mar-19,29,Lil Baby & Gunna,Drip Too Hard,840.476,16,-,-,-,36,-
+Mar-19,30,Cardi B,Money,837.678,16,-,-,-,57,-
+Mar-19,31,Pinkfong,Baby Shark,804.26,34,33,-,-,39,-
+Mar-19,32,"Kodak Black, Travi$ Scott & Offset",Zeze,795.89,22,88,-,165,38,-
+Mar-19,33,Luke Combs,Beautiful Crazy,788.703,23,-,-,-,39,-
+Mar-19,34,5 Seconds of Summer,Youngblood,777.171,26,-,-,-,20,33
+Mar-19,35,A Boogie Wit da Hoodie,Look Back At It,774.736,35,67,-,95,23,41
+Mar-19,36,A Boogie Wit da Hoodie & 6ix9ine,Swervin,769.772,43,27,-,-,24,-
+Mar-19,37,"DJ Snake, Selena Gomez, Ozuna & Cardi B",Taki Taki,749.974,38,-,-,15,28,-
+Mar-19,38,Calvin Harris & Rag'n'Bone Man,Giant,743.782,-,2,6,18,29,24
+Mar-19,39,Lauren Daigle,You Say,706.36,29,-,-,-,52,-
+Mar-19,40,"Ellie Goulding, Diplo & Swae Lee",Close To Me,705.626,28,-,-,-,25,-
+Mar-19,41,Daddy Yankee & Snow,Con Calma,700.233,48,85,-,102,49,-
+Mar-19,42,Mustard & Migos,Pure Water,695.835,34,62,-,-,20,45
+Mar-19,43,Dan & Shay,Tequila,682.133,31,-,-,-,-,-
+Mar-19,44,"Cardi B, Bad Bunny & J Balvin",I Like It,655.043,33,-,-,149,44,-
+Mar-19,45,Juice WRLD,Lucid Dreams (Forget Me),653.434,36,-,-,-,36,-
+Mar-19,46,Calboy,Envy Me,623.174,39,-,-,-,69,-
+Mar-19,47,Kehlani & Ty Dolla Sign,Nights Like This,591.322,67,25,-,-,61,43
+Mar-19,48,"Gucci Mane, Bruno Mars & Kodak Black",Wake Up In The Sky,578.692,35,-,-,-,-,-
+Mar-19,49,City Girls & Cardi B,Twerk,563.965,45,-,-,-,-,-
+Mar-19,50,YNW Melly & Kanye West,Mixed Personalities,553.113,43,-,-,-,51,-
